@@ -1,0 +1,12 @@
+---
+layout: reports
+title: <%= @grant[:title] %>
+grant_number: <%= @grant[:grant_number] %>
+institution: <%= @grant[:institution] %>
+contact: <%= @grant[:contact] %>
+email: <%= @grant[:email] %>
+submission: <%= @grant[:submission] %>
+assets: >- <%= @assets.to_yaml(:separator => '') %>
+---
+todo: need to tab over one for data
+todo: need to edit header

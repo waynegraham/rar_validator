@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<ul>
+  {% for manifest in site.manifests %}
+    <li>
+      <a href="{{ manifest.url }}">{{ manifest.title }} - {{ manifest.institution }}</a>
+    </li>
+  {% endfor %}
+</ul>

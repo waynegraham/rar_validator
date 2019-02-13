@@ -2,10 +2,32 @@
 layout: default
 ---
 
-<ul>
-  {% for manifest in site.manifests %}
-    <li>
-      <a href="{{ manifest.url }}">{{ manifest.title }} - {{ manifest.institution }}</a>
-    </li>
-  {% endfor %}
-</ul>
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">Grant Title</th>
+      <th scope="col">Institution</th>
+      <th scope="col">Total Assets</th>
+      <th scope="col">Total Online</th>
+      <th scope="col">Total Issues</th>
+      <th scope="col">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for manifest in site.manifests %}
+    <tr>
+      <td><a href="{{ manifest.url }}">{{ manifest.title }}</a></td>
+      <td>{{ manifest.institution }}</td>
+      <td><span class="badge badge-pill badge-info">{{ manifest.total_assets }}</span></td>
+      <td><span class="badge badge-pill badge-success">{{ manifest.available_assets }}</span></td>
+      <td><span class="badge badge-pill badge-danger">{{ manifest.total_assets | minus: manifest.available_assets }}</span></td>
+      <td>
+        <div class="progress">
+          <div class="progress-bar bg-danger" role="progressbar" style="width: {{ manifest.unavailable_percentage }}%" aria-valuenow="{{ manifest.unavailable_percentage }}" aria-valuemin="0" aria-valuemax="100"></div>
+          <div class="progress-bar bg-success" role="progressbar" style="width: {{ manifest.available_percentage }}%" aria-valuenow="{{ manifest.available_percentage }}" aria-valuemin="0" aria-valuemax="100"></div>
+        </div>
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

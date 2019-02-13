@@ -95,10 +95,12 @@ def parse_url_info(worksheet)
   parse_headers(worksheet)
 
   @assets = []
+  @total_assets = 0
+  @available_assets = 0
 
   ((worksheet.first_row + 1)..worksheet.last_row).each do |row|
     restriction = worksheet.row(row)[@headers['RESTRICTED? (Y/N)']].to_bool
-    puts restriction
+    url_status = check_status(worksheet.row(row)[@headers['DIRECT URL TO FILE']], restriction)
     values =
     # @assets[worksheet.row(row)[@headers['ACCESS  FILENAME']].strip] =
       {
@@ -112,11 +114,20 @@ def parse_url_info(worksheet)
         preservation_filename: worksheet.row(row)[@headers['PRESERVATION FILENAME']],
         preservation_file_location: worksheet.row(row)[@headers['PRESERVATION FILE LOCATION']],
         online_url: check_url(worksheet.row(row)[@headers['DIRECT URL TO FILE']]),
-        status: check_status(worksheet.row(row)[@headers['DIRECT URL TO FILE']], restriction)
+        status: url_status
       }
 
       @assets << values
+      @total_assets += 1
+      @available_assets += 1 if url_status == "200"
   end
+
+  @grant[:total_assets]         = @total_assets
+  @grant[:available_assets]     = @available_assets
+  @grant[:available_percentage] = (@available_assets.to_f / @total_assets.to_f) * 100
+  @grant[:unavailable_assets]   = 100 - @grant[:available_percentage]
+
+  puts @grant
 
   write_file(@json_filename, @assets)
 

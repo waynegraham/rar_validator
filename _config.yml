@@ -47,3 +47,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - templates/
+  - lib
+  - .sass-cache
+  - Rakefile
+  - README.md

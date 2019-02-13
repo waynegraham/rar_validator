@@ -13,6 +13,7 @@ require 'net/http'
 require 'json'
 
 def filename(spreadsheet, directory, suffix)
+  # TODO guard the date field
    formatted_date = Chronic.parse(spreadsheet.sheet(0).row(6)[1]).strftime('%Y-%m-%d')
    grant_number = spreadsheet.sheet(0).row(1)[1]
    "#{directory}/#{formatted_date}-#{grant_number}#{suffix}"
@@ -73,12 +74,18 @@ def status_badge(status)
   end
 end
 
-def check_status(uri)
+def check_status(uri, restricted)
   if(uri.start_with?('http'))
-    puts "Checking #{uri}".green
-    return  Net::HTTP.get_response(URI.parse(uri)).code
+    # puts "Checking #{uri}".green
+    if(restricted)
+      puts "Skipping Restricted Asset".yellow
+      return "Restricted Asset"
+    else
+      puts "Checking #{uri}".green
+      return  Net::HTTP.get_response(URI.parse(uri)).code
+    end
   else
-    puts "#{uri} is not valid".yellow
+    # puts "#{uri} is not valid".yellow
     return "Invalid URL"
   end
 end
@@ -90,6 +97,8 @@ def parse_url_info(worksheet)
   @assets = []
 
   ((worksheet.first_row + 1)..worksheet.last_row).each do |row|
+    restriction = worksheet.row(row)[@headers['RESTRICTED? (Y/N)']].to_bool
+    puts restriction
     values =
     # @assets[worksheet.row(row)[@headers['ACCESS  FILENAME']].strip] =
       {
@@ -98,15 +107,12 @@ def parse_url_info(worksheet)
         checksum: worksheet.row(row)[@headers['CHECKSUM']],
         checked: DateTime.now,
         # checked: worksheet.row(row)[@headers['DATE LAST CHECKED']],
-        restricted: worksheet.row(row)[@headers['RESTRICTED? (Y/N)']].to_bool,
+        restricted: restriction,
         comments: worksheet.row(row)[@headers['COMMENTS ABOUT RESTRICTIONS']],
         preservation_filename: worksheet.row(row)[@headers['PRESERVATION FILENAME']],
         preservation_file_location: worksheet.row(row)[@headers['PRESERVATION FILE LOCATION']],
         online_url: check_url(worksheet.row(row)[@headers['DIRECT URL TO FILE']]),
-        status: check_status(worksheet.row(row)[@headers['DIRECT URL TO FILE']])
-        # if worksheet.row(row)[@headers['DIRECT URL TO FILE']].start_with?('http')
-        #   response: Net::HTTP.get_response(worksheet.row(row)[@headers['DIRECT URL TO FILE']]).code
-        # end
+        status: check_status(worksheet.row(row)[@headers['DIRECT URL TO FILE']], restriction)
       }
 
       @assets << values

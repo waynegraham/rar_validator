@@ -11,6 +11,7 @@ namespace :reports do
   desc 'Check manifiests in DATA_DIR'
   task :manifests do
     Dir["#{DATA_DIR}/*.xlsx"].each do |file|
+      puts "Processing #{file}".green
       parse_manifest(file)
 
       contents = render_erb('templates/report.html.erb')

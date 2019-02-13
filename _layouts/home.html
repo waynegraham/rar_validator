@@ -16,7 +16,7 @@ layout: default
   <tbody>
     {% for manifest in site.manifests %}
     <tr>
-      <td><a href="{{ manifest.url }}">{{ manifest.title }}</a></td>
+      <td><a href="{{ manifest.url | prepend: site.baseurl }}">{{ manifest.title }}</a></td>
       <td>{{ manifest.institution }}</td>
       <td><span class="badge badge-pill badge-info">{{ manifest.total_assets }}</span></td>
       <td><span class="badge badge-pill badge-success">{{ manifest.available_assets }}</span></td>

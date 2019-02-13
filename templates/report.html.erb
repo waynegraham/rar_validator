@@ -6,7 +6,28 @@ institution: <%= @grant[:institution] %>
 contact: <%= @grant[:contact] %>
 email: <%= @grant[:email] %>
 submission: <%= @grant[:submission] %>
-assets: >- <%= @assets.to_yaml(:separator => '') %>
+json: <%= @grant[:json_filename] %>
 ---
-todo: need to tab over one for data
-todo: need to edit header
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">Status</th>
+      <th scope="col">Filename</th>
+      <th scope="col">URL</th>
+      <th scope="col">Checksum</th>
+      <th scope="col">Restricted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% @assets.each do |asset| %>
+    <tr>
+      <td><%= status_badge asset[:status] %></td>
+      <td><%= asset[:filename] %></td>
+      <td><%= asset[:online_url] %></td>
+      <td><%= asset[:checksum] %></td>
+      <td><%= asset[:restricted] %></td>
+    </tr>
+    <% end %>
+  </tbody>
+</table>

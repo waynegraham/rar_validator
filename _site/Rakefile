@@ -14,7 +14,8 @@ namespace :reports do
       parse_manifest(file)
 
       contents = render_erb('templates/report.html.erb')
-      write_file(@filename, contents)
+      write_file(@markdown_filename, contents)
+
     end
   end
 end

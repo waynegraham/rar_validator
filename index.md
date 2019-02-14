@@ -4,8 +4,19 @@
 
 layout: home
 ---
-
-<div class="px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
-  <h1 class="display-4">Grants</h1>
-  <p class="lead">Quickly check the last status of the grants</p>
+<div class="row">
+    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+        <div class="page-header">
+            <h2 class="pageheader-title">Grants </h2>
+            <p class="pageheader-text">Quickly check the last status of the grants</p>
+            <div class="page-breadcrumb">
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="#" class="breadcrumb-link">Dashboard</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Grant Dashboard</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
 </div>

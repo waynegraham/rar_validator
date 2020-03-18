@@ -5,48 +5,49 @@ layout: default
 {{ content }}
 
 <div class="row">
-<!-- ============================================================== -->
-              <!-- recent checks  -->
-<!-- ============================================================== -->
-<div class="col-xl-9 col-lg-12 col-md-6 col-sm-12 col-12">
+  <!-- ============================================================== -->
+  <!-- recent checks  -->
+  <!-- ============================================================== -->
+  <div class="col-xl-9 col-lg-12 col-md-6 col-sm-12 col-12">
     <div class="card">
-        <h5 class="card-header">Recent Checks</h5>
-        <div class="card-body p-0">
-            <div class="table-responsive">
-                <table class="table">
-                    <thead class="bg-light">
-                        <tr class="border-0">
-                            <th class="border-0" scope="col">Grant Title</th>
-                            <th class="border-0" scope="col">Institution</th>
-                            <th class="border-0" scope="col">Total Assets</th>
-                            <th class="border-0" scope="col">Total Online</th>
-                            <th class="border-0" scope="col">Total Issues</th>
-                            <th class="border-0" scope="col">Status</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                      {% for manifest in site.manifests %}
-                      <tr>
-                        <td><a href="{{ manifest.url | prefix: site.baseurl }}">{{ manifest.title }}</a></td>
-                        <td>{{ manifest.institution }}</td>
-                        <td><span class="badge badge-pill badge-info">{{ manifest.total_assets }}</span></td>
-                        <td><span class="badge badge-pill badge-success">{{ manifest.available_assets }}</span></td>
-                        <td><span class="badge badge-pill badge-danger">{{ manifest.total_assets | minus: manifest.available_assets }}</span></td>
-                        <td>
-                          <div class="progress">
-                            <div class="progress-bar bg-danger" role="progressbar" style="width: {{ manifest.unavailable_percentage }}%" aria-valuenow="{{ manifest.unavailable_percentage }}" aria-valuemin="0" aria-valuemax="100"></div>
-                            <div class="progress-bar bg-success" role="progressbar" style="width: {{ manifest.available_percentage }}%" aria-valuenow="{{ manifest.available_percentage }}" aria-valuemin="0" aria-valuemax="100"></div>
-                          </div>
-                        </td>
-                      </tr>
-                      {% endfor %}
-                    </tbody></table>
-            </div>
+      <h5 class="card-header">Recent Checks</h5>
+      <div class="card-body p-0">
+        <div class="table-responsive">
+          <table class="table">
+            <thead class="bg-light">
+              <tr class="border-0">
+                <th class="border-0" scope="col">Grant Title</th>
+                <th class="border-0" scope="col">Institution</th>
+                <th class="border-0" scope="col">Total Assets</th>
+                <th class="border-0" scope="col">Total Online</th>
+                <th class="border-0" scope="col">Total Issues</th>
+                <th class="border-0" scope="col">Status</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for manifest in site.manifests %}
+              <tr>
+                <td><a href="{{ manifest.url | prepend: site.baseurl }}">{{ manifest.title }}</a></td>
+                <td>{{ manifest.institution }}</td>
+                <td><span class="badge badge-pill badge-info">{{ manifest.total_assets }}</span></td>
+                <td><span class="badge badge-pill badge-success">{{ manifest.available_assets }}</span></td>
+                <td><span class="badge badge-pill badge-danger">{{ manifest.total_assets | minus: manifest.available_assets }}</span></td>
+                <td>
+                  <div class="progress">
+                    <div class="progress-bar bg-danger" role="progressbar" style="width: {{ manifest.unavailable_percentage }}%" aria-valuenow="{{ manifest.unavailable_percentage }}" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" style="width: {{ manifest.available_percentage }}%" aria-valuenow="{{ manifest.available_percentage }}" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
         </div>
+      </div>
     </div>
-</div>
-<!-- ============================================================== -->
-<!-- end recent checks  -->
-<!-- ============================================================== -->
+  </div>
+  <!-- ============================================================== -->
+  <!-- end recent checks  -->
+  <!-- ============================================================== -->
 
 </div>

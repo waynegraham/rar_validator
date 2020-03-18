@@ -13,40 +13,40 @@
 <!-- https://bootstrap-table.com/docs/getting-started/introduction/ -->
   <link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.13.4/dist/bootstrap-table.min.css">
 
-  <link rel="stylesheet" href="/assets/vendor/bootstrap/css/bootstrap.min.css">
-  <link rel="stylesheet" href="/assets/vendor/fonts/circular-std/style.css">
-  <link rel="stylesheet" href="/assets/libs/css/style.css">
-  <link rel="stylesheet" href="/assets/vendor/fonts/fontawesome/css/fontawesome-all.css">
-  <link rel="stylesheet" href="/assets/vendor/charts/chartist-bundle/chartist.css">
-  <link rel="stylesheet" href="/assets/vendor/charts/morris-bundle/morris.css">
-  <link rel="stylesheet" href="/assets/vendor/fonts/material-design-iconic-font/css/materialdesignicons.min.css">
-  <link rel="stylesheet" href="/assets/vendor/charts/c3charts/c3.css">
+  <link rel="stylesheet" href="/rar_validator/assets/vendor/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/rar_validator/assets/vendor/fonts/circular-std/style.css">
+  <link rel="stylesheet" href="/rar_validator/assets/libs/css/style.css">
+  <link rel="stylesheet" href="/rar_validator/assets/vendor/fonts/fontawesome/css/fontawesome-all.css">
+  <link rel="stylesheet" href="/rar_validator/assets/vendor/charts/chartist-bundle/chartist.css">
+  <link rel="stylesheet" href="/rar_validator/assets/vendor/charts/morris-bundle/morris.css">
+  <link rel="stylesheet" href="/rar_validator/assets/vendor/fonts/material-design-iconic-font/css/materialdesignicons.min.css">
+  <link rel="stylesheet" href="/rar_validator/assets/vendor/charts/c3charts/c3.css">
 
-  <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://localhost:4000/">
-  <link rel="alternate" type="application/rss+xml" title="Checking system for Manifests" href="http://localhost:4000/feed.xml">
+  <link rel="stylesheet" href="/rar_validator/css/main.css">
+  <link rel="canonical" href="http://localhost:4000/rar_validator/">
+  <link rel="alternate" type="application/rss+xml" title="Checking system for Manifests" href="http://localhost:4000/rar_validator/feed.xml">
 
   <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
   <!-- from concept -->
-  <script src="/assets/vendor/slimscroll/jquery.slimscroll.js"></script>
+  <script src="/rar_validator/assets/vendor/slimscroll/jquery.slimscroll.js"></script>
    <!-- main js -->
-   <script src="/assets/libs/js/main-js.js"></script>
+   <script src="/rar_validator/assets/libs/js/main-js.js"></script>
    <!-- chart chartist js -->
-   <script src="/assets/vendor/charts/chartist-bundle/chartist.min.js"></script>
+   <script src="/rar_validator/assets/vendor/charts/chartist-bundle/chartist.min.js"></script>
    <!-- sparkline js -->
-   <script src="/assets/vendor/charts/sparkline/jquery.sparkline.js"></script>
+   <script src="/rar_validator/assets/vendor/charts/sparkline/jquery.sparkline.js"></script>
    <!-- morris js -->
-   <script src="/assets/vendor/charts/morris-bundle/raphael.min.js"></script>
-   <script src="/assets/vendor/charts/morris-bundle/morris.js"></script>
+   <script src="/rar_validator/assets/vendor/charts/morris-bundle/raphael.min.js"></script>
+   <script src="/rar_validator/assets/vendor/charts/morris-bundle/morris.js"></script>
    <!-- chart c3 js -->
-   <script src="/assets/vendor/charts/c3charts/c3.min.js"></script>
-   <script src="/assets/vendor/charts/c3charts/d3-5.4.0.min.js"></script>
-   <script src="/assets/vendor/charts/c3charts/C3chartjs.js"></script>
+   <script src="/rar_validator/assets/vendor/charts/c3charts/c3.min.js"></script>
+   <script src="/rar_validator/assets/vendor/charts/c3charts/d3-5.4.0.min.js"></script>
+   <script src="/rar_validator/assets/vendor/charts/c3charts/C3chartjs.js"></script>
 
-   <script src="/assets/vendor/charts/charts-bundle/Chart.bundle.js"></script>
-<script src="/assets/vendor/charts/charts-bundle/chartjs.js"></script>
+   <script src="/rar_validator/assets/vendor/charts/charts-bundle/Chart.bundle.js"></script>
+<script src="/rar_validator/assets/vendor/charts/charts-bundle/chartjs.js"></script>
 
 
 </head>
@@ -62,7 +62,7 @@
 <!-- ============================================================== -->
 <div class="dashboard-header">
   <nav class="navbar navbar-expand-lg bg-white fixed-top">
-    <a class="navbar-brand" href="">Checking system for Manifests</a>
+    <a class="navbar-brand" href="/rar_validator">Checking system for Manifests</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -194,91 +194,260 @@
 
 
 <div class="row">
-<!-- ============================================================== -->
-              <!-- recent checks  -->
-<!-- ============================================================== -->
-<div class="col-xl-9 col-lg-12 col-md-6 col-sm-12 col-12">
+  <!-- ============================================================== -->
+  <!-- recent checks  -->
+  <!-- ============================================================== -->
+  <div class="col-xl-9 col-lg-12 col-md-6 col-sm-12 col-12">
     <div class="card">
-        <h5 class="card-header">Recent Checks</h5>
-        <div class="card-body p-0">
-            <div class="table-responsive">
-                <table class="table">
-                    <thead class="bg-light">
-                        <tr class="border-0">
-                            <th class="border-0" scope="col">Grant Title</th>
-                            <th class="border-0" scope="col">Institution</th>
-                            <th class="border-0" scope="col">Total Assets</th>
-                            <th class="border-0" scope="col">Total Online</th>
-                            <th class="border-0" scope="col">Total Issues</th>
-                            <th class="border-0" scope="col">Status</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                      
-                      <tr>
-                        <td><a href="/manifests/2018-08-31-18010300.html">Preserving the Programming Archives of the National Federation of Community Broadcasters. National Public Broadcasting Archives at the University of Maryland</a></td>
-                        <td>University of Maryland, College Park</td>
-                        <td><span class="badge badge-pill badge-info">624</span></td>
-                        <td><span class="badge badge-pill badge-success">624</span></td>
-                        <td><span class="badge badge-pill badge-danger">0</span></td>
-                        <td>
-                          <div class="progress">
-                            <div class="progress-bar bg-danger" role="progressbar" style="width: 0%" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
-                            <div class="progress-bar bg-success" role="progressbar" style="width: 100.0%" aria-valuenow="100.0" aria-valuemin="0" aria-valuemax="100"></div>
-                          </div>
-                        </td>
-                      </tr>
-                      
-                      <tr>
-                        <td><a href="/manifests/2018-08-31-RAR16_01_WWC.html">Reformatting of the Tommi Avicolli Mecca cassette tapes on LGBTQ history</a></td>
-                        <td>William Way LGBT Community Center</td>
-                        <td><span class="badge badge-pill badge-info">174</span></td>
-                        <td><span class="badge badge-pill badge-success">90</span></td>
-                        <td><span class="badge badge-pill badge-danger">84</span></td>
-                        <td>
-                          <div class="progress">
-                            <div class="progress-bar bg-danger" role="progressbar" style="width: 48%" aria-valuenow="48" aria-valuemin="0" aria-valuemax="100"></div>
-                            <div class="progress-bar bg-success" role="progressbar" style="width: 52%" aria-valuenow="52" aria-valuemin="0" aria-valuemax="100"></div>
-                          </div>
-                        </td>
-                      </tr>
-                      
-                      <tr>
-                        <td><a href="/manifests/2018-10-31-17-065.html">“Down we went into the maelstrom…” - The American Fighter Aces Oral History Digitization Project</a></td>
-                        <td>The Museum of Flight</td>
-                        <td><span class="badge badge-pill badge-info">381</span></td>
-                        <td><span class="badge badge-pill badge-success">0</span></td>
-                        <td><span class="badge badge-pill badge-danger">381</span></td>
-                        <td>
-                          <div class="progress">
-                            <div class="progress-bar bg-danger" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-                            <div class="progress-bar bg-success" role="progressbar" style="width: 0.0%" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="100"></div>
-                          </div>
-                        </td>
-                      </tr>
-                      
-                      <tr>
-                        <td><a href="/manifests/2018-11-27-UCSCRAR-041917.html">Digitizing the Avant-Garde: Selections from the KPFA music archive in the Other Minds Records</a></td>
-                        <td>University of California, Santa Cruz, Special Collections, University Library</td>
-                        <td><span class="badge badge-pill badge-info">61</span></td>
-                        <td><span class="badge badge-pill badge-success">0</span></td>
-                        <td><span class="badge badge-pill badge-danger">61</span></td>
-                        <td>
-                          <div class="progress">
-                            <div class="progress-bar bg-danger" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
-                            <div class="progress-bar bg-success" role="progressbar" style="width: 0.0%" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="100"></div>
-                          </div>
-                        </td>
-                      </tr>
-                      
-                    </tbody></table>
-            </div>
+      <h5 class="card-header">Recent Checks</h5>
+      <div class="card-body p-0">
+        <div class="table-responsive">
+          <table class="table">
+            <thead class="bg-light">
+              <tr class="border-0">
+                <th class="border-0" scope="col">Grant Title</th>
+                <th class="border-0" scope="col">Institution</th>
+                <th class="border-0" scope="col">Total Assets</th>
+                <th class="border-0" scope="col">Total Online</th>
+                <th class="border-0" scope="col">Total Issues</th>
+                <th class="border-0" scope="col">Status</th>
+              </tr>
+            </thead>
+            <tbody>
+              
+              <tr>
+                <td><a href="/rar_validator/manifests/2018-08-31-18010300.html">Preserving the Programming Archives of the National Federation of Community Broadcasters. National Public Broadcasting Archives at the University of Maryland</a></td>
+                <td>University of Maryland, College Park</td>
+                <td><span class="badge badge-pill badge-info">624</span></td>
+                <td><span class="badge badge-pill badge-success">624</span></td>
+                <td><span class="badge badge-pill badge-danger">0</span></td>
+                <td>
+                  <div class="progress">
+                    <div class="progress-bar bg-danger" role="progressbar" style="width: %" aria-valuenow="" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" style="width: 100.0%" aria-valuenow="100.0" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </td>
+              </tr>
+              
+              <tr>
+                <td><a href="/rar_validator/manifests/2018-08-31-RAR16_01_WWC.html">Reformatting of the Tommi Avicolli Mecca cassette tapes on LGBTQ history</a></td>
+                <td>William Way LGBT Community Center</td>
+                <td><span class="badge badge-pill badge-info">174</span></td>
+                <td><span class="badge badge-pill badge-success">90</span></td>
+                <td><span class="badge badge-pill badge-danger">84</span></td>
+                <td>
+                  <div class="progress">
+                    <div class="progress-bar bg-danger" role="progressbar" style="width: %" aria-valuenow="" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" style="width: 51.724137931034484%" aria-valuenow="51.724137931034484" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </td>
+              </tr>
+              
+              <tr>
+                <td><a href="/rar_validator/manifests/2018-10-31-17-065.html">“Down we went into the maelstrom…” - The American Fighter Aces Oral History Digitization Project</a></td>
+                <td>The Museum of Flight</td>
+                <td><span class="badge badge-pill badge-info">381</span></td>
+                <td><span class="badge badge-pill badge-success">0</span></td>
+                <td><span class="badge badge-pill badge-danger">381</span></td>
+                <td>
+                  <div class="progress">
+                    <div class="progress-bar bg-danger" role="progressbar" style="width: %" aria-valuenow="" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" style="width: 0.0%" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </td>
+              </tr>
+              
+              <tr>
+                <td><a href="/rar_validator/manifests/2018-11-27-UCSCRAR-041917.html">Digitizing the Avant-Garde: Selections from the KPFA music archive in the Other Minds Records</a></td>
+                <td>University of California, Santa Cruz, Special Collections, University Library</td>
+                <td><span class="badge badge-pill badge-info">61</span></td>
+                <td><span class="badge badge-pill badge-success">0</span></td>
+                <td><span class="badge badge-pill badge-danger">61</span></td>
+                <td>
+                  <div class="progress">
+                    <div class="progress-bar bg-danger" role="progressbar" style="width: %" aria-valuenow="" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" style="width: 0.0%" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </td>
+              </tr>
+              
+              <tr>
+                <td><a href="/rar_validator/manifests/2018-12-13-17-074-a.html">Citizens’ Council Radio Forums: Digitizing the Interviews of Segregationist Politicians, 1957-1966</a></td>
+                <td>Mississippi State University Libraries</td>
+                <td><span class="badge badge-pill badge-info">262</span></td>
+                <td><span class="badge badge-pill badge-success">0</span></td>
+                <td><span class="badge badge-pill badge-danger">262</span></td>
+                <td>
+                  <div class="progress">
+                    <div class="progress-bar bg-danger" role="progressbar" style="width: %" aria-valuenow="" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" style="width: 0.0%" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </td>
+              </tr>
+              
+              <tr>
+                <td><a href="/rar_validator/manifests/2018-12-20-no-number-assigned-to-grant.html">Debating the Vietnam War: Film and Audio Recordings from the 1960s and 1970s </a></td>
+                <td>Swarthmore College Peace Collection</td>
+                <td><span class="badge badge-pill badge-info">268</span></td>
+                <td><span class="badge badge-pill badge-success">25</span></td>
+                <td><span class="badge badge-pill badge-danger">243</span></td>
+                <td>
+                  <div class="progress">
+                    <div class="progress-bar bg-danger" role="progressbar" style="width: %" aria-valuenow="" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" style="width: 9.328358208955224%" aria-valuenow="9.328358208955224" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </td>
+              </tr>
+              
+              <tr>
+                <td><a href="/rar_validator/manifests/2019-01-28-rar16_02_wfu.html">Documenting the Evangelical Movement in the United States: Digitizing Baptist State Convention of North Carolina Open-Reel Audiotapes, 1957-1980 </a></td>
+                <td>Wake Forest University</td>
+                <td><span class="badge badge-pill badge-info">191</span></td>
+                <td><span class="badge badge-pill badge-success">191</span></td>
+                <td><span class="badge badge-pill badge-danger">0</span></td>
+                <td>
+                  <div class="progress">
+                    <div class="progress-bar bg-danger" role="progressbar" style="width: %" aria-valuenow="" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" style="width: 100.0%" aria-valuenow="100.0" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </td>
+              </tr>
+              
+              <tr>
+                <td><a href="/rar_validator/manifests/2019-01-29-recordings-at-risk-id-0000000009.html"></a></td>
+                <td></td>
+                <td><span class="badge badge-pill badge-info"></span></td>
+                <td><span class="badge badge-pill badge-success"></span></td>
+                <td><span class="badge badge-pill badge-danger">0</span></td>
+                <td>
+                  <div class="progress">
+                    <div class="progress-bar bg-danger" role="progressbar" style="width: %" aria-valuenow="" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" style="width: %" aria-valuenow="" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </td>
+              </tr>
+              
+              <tr>
+                <td><a href="/rar_validator/manifests/2019-01-30-11.html">Caribbean Folklore Recordings, 1950s-1960s, Digitization Project: the University of Pennsylvania Folklore Department Collections</a></td>
+                <td>Penn Museum</td>
+                <td><span class="badge badge-pill badge-info">299</span></td>
+                <td><span class="badge badge-pill badge-success">0</span></td>
+                <td><span class="badge badge-pill badge-danger">299</span></td>
+                <td>
+                  <div class="progress">
+                    <div class="progress-bar bg-danger" role="progressbar" style="width: %" aria-valuenow="" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" style="width: 0.0%" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </td>
+              </tr>
+              
+              <tr>
+                <td><a href="/rar_validator/manifests/2019-05-13-rar16_03_lpb.html">Saving French in Louisiana: Preserving LPB's En Français Series</a></td>
+                <td>Foundation for Excellence in Louisiana Public Broadcasting</td>
+                <td><span class="badge badge-pill badge-info">175</span></td>
+                <td><span class="badge badge-pill badge-success">0</span></td>
+                <td><span class="badge badge-pill badge-danger">175</span></td>
+                <td>
+                  <div class="progress">
+                    <div class="progress-bar bg-danger" role="progressbar" style="width: %" aria-valuenow="" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" style="width: 0.0%" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </td>
+              </tr>
+              
+              <tr>
+                <td><a href="/rar_validator/manifests/2019-06-06-131-0.html">Everyday Voices: Preserving the Bryant Library Oral History Collection</a></td>
+                <td>The Bryant Library</td>
+                <td><span class="badge badge-pill badge-info">107</span></td>
+                <td><span class="badge badge-pill badge-success">0</span></td>
+                <td><span class="badge badge-pill badge-danger">107</span></td>
+                <td>
+                  <div class="progress">
+                    <div class="progress-bar bg-danger" role="progressbar" style="width: %" aria-valuenow="" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" style="width: 0.0%" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </td>
+              </tr>
+              
+              <tr>
+                <td><a href="/rar_validator/manifests/2019-06-06-131.0.html">Everyday Voices: Preserving the Bryant Library Oral History Collection</a></td>
+                <td>The Bryant Library</td>
+                <td><span class="badge badge-pill badge-info">107</span></td>
+                <td><span class="badge badge-pill badge-success">0</span></td>
+                <td><span class="badge badge-pill badge-danger">107</span></td>
+                <td>
+                  <div class="progress">
+                    <div class="progress-bar bg-danger" role="progressbar" style="width: %" aria-valuenow="" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" style="width: 0.0%" aria-valuenow="0.0" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </td>
+              </tr>
+              
+              <tr>
+                <td><a href="/rar_validator/manifests/2019-07-15-122.html">Activist Farmers on Film: Preserving the Recordings of the National Farmers Organization</a></td>
+                <td>Iowa State University Foundation</td>
+                <td><span class="badge badge-pill badge-info">332</span></td>
+                <td><span class="badge badge-pill badge-success">332</span></td>
+                <td><span class="badge badge-pill badge-danger">0</span></td>
+                <td>
+                  <div class="progress">
+                    <div class="progress-bar bg-danger" role="progressbar" style="width: %" aria-valuenow="" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" style="width: 100.0%" aria-valuenow="100.0" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </td>
+              </tr>
+              
+              <tr>
+                <td><a href="/rar_validator/manifests/2019-07-22-not-assigned-with-award.html">Lawrence Lipton’s L.A. in the Time of the Beats: Sounds of the 1950s and 1960s Counterculture</a></td>
+                <td>University of Southern California</td>
+                <td><span class="badge badge-pill badge-info">376</span></td>
+                <td><span class="badge badge-pill badge-success">376</span></td>
+                <td><span class="badge badge-pill badge-danger">0</span></td>
+                <td>
+                  <div class="progress">
+                    <div class="progress-bar bg-danger" role="progressbar" style="width: %" aria-valuenow="" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" style="width: 100.0%" aria-valuenow="100.0" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </td>
+              </tr>
+              
+              <tr>
+                <td><a href="/rar_validator/manifests/2019-09-12-not-assigned.html">Preserving the History of World War II’s Elite Ski Troopers, the 10th Mountain Division</a></td>
+                <td>Denver Public Library</td>
+                <td><span class="badge badge-pill badge-info">396</span></td>
+                <td><span class="badge badge-pill badge-success">232</span></td>
+                <td><span class="badge badge-pill badge-danger">164</span></td>
+                <td>
+                  <div class="progress">
+                    <div class="progress-bar bg-danger" role="progressbar" style="width: %" aria-valuenow="" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" style="width: 58.58585858585859%" aria-valuenow="58.58585858585859" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </td>
+              </tr>
+              
+              <tr>
+                <td><a href="/rar_validator/manifests/2020-07-31-RAR_002_HUC.html">Preserving Rare Recordings of Rabbi Stephen S. Wise and the Free Synagogue Pulpit that are held at The Jacob Rader Marcus Center of the American Jewish Archives</a></td>
+                <td>The Jacob Rader Marcus Center of the American Jewish Archives</td>
+                <td><span class="badge badge-pill badge-info">216</span></td>
+                <td><span class="badge badge-pill badge-success">214</span></td>
+                <td><span class="badge badge-pill badge-danger">2</span></td>
+                <td>
+                  <div class="progress">
+                    <div class="progress-bar bg-danger" role="progressbar" style="width: %" aria-valuenow="" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-success" role="progressbar" style="width: 99.07407407407408%" aria-valuenow="99.07407407407408" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                </td>
+              </tr>
+              
+            </tbody>
+          </table>
         </div>
+      </div>
     </div>
-</div>
-<!-- ============================================================== -->
-<!-- end recent checks  -->
-<!-- ============================================================== -->
+  </div>
+  <!-- ============================================================== -->
+  <!-- end recent checks  -->
+  <!-- ============================================================== -->
 
 </div>
 

@@ -1,0 +1,2907 @@
+I"ƒg<div class="row">
+  <div class="col-xl-8 col-lg-12 col-md-12 col-12">
+    <div class="card">
+      <h5 class="card-header">Check Details</h5>
+      <div class="card-body">
+        <table class="table table-striped">
+          <thead>
+            <tr>
+              <th scope="col">Status</th>
+              <th scope="col">Status Code</th>
+              <th scope="col">Filename</th>
+              <th scope="col">URL</th>
+              <th scope="col">Checksum</th>
+              <th scope="col">Restricted</th>
+            </tr>
+          </thead>
+          <tbody>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td></td>
+                <td><a href="Invalid URL"></a></td>
+                <!-- <td>
+                  Invalid URL
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/73">x-manuscripts_master-citizens_council_radio_forums_597-abernathy-thomas-ort_5820_msu_thomasabernathy_2of3_statesrights-5820_accessfiles-mp3</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/73
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/121">x-manuscripts_master-citizens_council_radio_forums_597-abernathy-thomas-ort_5915_msu_thomasabernathy_3of3_balancedbudget-5915_accessfiles-mp3</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/121
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/15">x-manuscripts_master-citizens_council_radio_forums_597-abernathy-thomas-ort_6317_msu_thomasabernathy_1of3_cubansituation-6317_accessfiles-mp3</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/15
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/107">x-manuscripts_master-citizens_council_radio_forums_597-alford-dale-ort_5919_msu_dalealford_2of2_forceableintegration-5919_accessfiles-mp3</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/107
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/227">x-manuscripts_master-citizens_council_radio_forums_597-alford-dale-ort_6034_msu_dalealford_1of2_sovereignty-6034_accessfiles-mp3</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/227
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/61">x-manuscripts_master-citizens_council_radio_forums_597-anderson-leroy-h-ort_6006_msu_leroyanderson_1of1_usdefense-6006_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/61
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/41">x-manuscripts_master-citizens_council_radio_forums_597-andrews-george-ort_5804_msu_georgeandrews_1of2_resettlement-5804_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/41
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/216">x-manuscripts_master-citizens_council_radio_forums_597-andrews-george-ort_5812_msu_georgeandrews_2of2_schools-5812_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/216
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/70">x-manuscripts_master-citizens_council_radio_forums_597-andrews-glen-ort_6530_msu_glenandrews_1of1_section14b-6530_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/70
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/141">x-manuscripts_master-citizens_council_radio_forums_597-ashmore-robert-t-ort_6010_msu_robertashmore_3of3_effectofcr-6010_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/141
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/188">x-manuscripts_master-citizens_council_radio_forums_597-ashmore-robert-t-ort_6402_msu_robertashmore_1of3_civilrightsact-6402_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/188
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/84">x-manuscripts_master-citizens_council_radio_forums_597-ashmore-robert-t-ort_6403_msu_robertashmore_2of3_civilrightsbill-6403_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/84
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/236">x-manuscripts_master-citizens_council_radio_forums_597-avery-william-h-ort_6003_msu_williamavery_1of1_regulation-6003_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/236
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/161">x-manuscripts_master-citizens_council_radio_forums_597-barnes-capt-e-richard-ort_6504r_msu_richardbarnes_1of1_riottactics-6504r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/161
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/148">x-manuscripts_master-citizens_council_radio_forums_597-barnes-capt-e-richard-ort_6505r_msu_richardbarnes_1of1_communism-6505r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/148
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/155">x-manuscripts_master-citizens_council_radio_forums_597-barnett-ross-ort_6127r_msu_ross-barnett_2-of-4_southern-governors-conference-6127r_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/155
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/182">x-manuscripts_master-citizens_council_radio_forums_597-barnett-ross-ort_6236_msu_ross-barnett_4-of-4_doctrine-of-interposition-6236_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/182
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/166">x-manuscripts_master-citizens_council_radio_forums_597-barnett-ross-ort_6417r_msu_ross-barnett_3-of-4_civilrightsbill-6417r_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/166
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/240">x-manuscripts_master-citizens_council_radio_forums_597-barnett-ross-ort_6516r_msu_ross-barnett_1-of-4_race-relations-6516r_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/240
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/56">x-manuscripts_master-citizens_council_radio_forums_597-belcher-page-ort_6018_msu_pagebelcher_1of1_living-6018_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/56
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/138">x-manuscripts_master-citizens_council_radio_forums_597-ben-f-jensen-and-milton-m-lorry-ort_5921_msu_benjensen_1of1_civilrights-5921_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/138
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/132">x-manuscripts_master-citizens_council_radio_forums_597-harris-roy-v-ort_6107r_msu_royharris_1of1_segregation-6107r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/132
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/273">x-manuscripts_master-citizens_council_radio_forums_597-blitch-iris-f-ort_6001_msu_irisblitch_1of2_womansviewpoint-6001_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/273
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>Invalid URL</td>
+                <td><a href="Invalid URL">x-manuscripts_master-citizens_council_radio_forums_597-blitch-iris-f-ort_6021_msu_irisblitch_2of2_desegregation-6021_accessfiles</a></td>
+                <!-- <td>
+                  Invalid URL
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/187">x-manuscripts_master-citizens_council_radio_forums_597-brady-tom-ort_58x2_msu_tom-p-brady_1-of-2_little-rock-decisions-58x2_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/187
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/253">x-manuscripts_master-citizens_council_radio_forums_597-brady-tom-ort_6435r_msu_justice-tom-brady_2-of-2_democratic-delegation-6435r_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/253
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/170">x-manuscripts_master-citizens_council_radio_forums_597-benson-george-s-ort_6106r_msu_georgebenson_1of1_communism-6106r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/170
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/269">x-manuscripts_master-citizens_council_radio_forums_597-byrd-harry-f-ort_5937_msu_harrybyrd_1of1_deficit-5937_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/269
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/224">x-manuscripts_master-citizens_council_radio_forums_597-byrd-harry-f-ort_6113_msu_harrybyrd_1of1_conservative-6113_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/224
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/149">x-manuscripts_master-citizens_council_radio_forums_597-charles-d-howen-and-thomas-abernathy-ort_6005_msu_charleshowen_1of1_loyaltyoaths-6005_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/149
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/62">x-manuscripts_master-citizens_council_radio_forums_597-colmer-william-m-ort_5830_msu_williamcolmer_3of11_hr3-5830_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/62
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/104">x-manuscripts_master-citizens_council_radio_forums_597-colmer-william-m-ort_5806_msu_williamcolmer_10of11_strategycommittee-5806_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/104
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/34">x-manuscripts_master-citizens_council_radio_forums_597-colmer-william-m-ort_5925_msu_williamcolmer_2of11_predictionsof1960-5925_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/34
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/167">x-manuscripts_master-citizens_council_radio_forums_597-colmer-william-m-ort_6014_msu_williamcolmer_4of11_1960election-6014_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/167
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/152">x-manuscripts_master-citizens_council_radio_forums_597-colmer-william-m-ort_6023_msu_williamcolmer_1of11_summitconference-6023_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/152
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/211">x-manuscripts_master-citizens_council_radio_forums_597-colmer-william-m-ort_6215_msu_williamcolmer_9of11_stackingofrules-6215_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/211
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/67">x-manuscripts_master-citizens_council_radio_forums_597-colmer-william-m-ort_6350_msu_williamcolmer_5of11_civilrightsbill-6350_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/67
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/63">x-manuscripts_master-citizens_council_radio_forums_597-colmer-william-m-ort_6642_msu_williamcolmer_8of11_schoolguidelines-6642_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/63
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/74">x-manuscripts_master-citizens_council_radio_forums_597-colmer-william-m-ort_6643_msu_williamcolmer_11of11_federalaid-6643_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/74
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/146">x-manuscripts_master-citizens_council_radio_forums_597-colmer-william-m-ort_6646_msu_williamcolmer_7of11_nextcongress-6646_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/146
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/113">x-manuscripts_master-citizens_council_radio_forums_597-colmer-william-m-ort_6647_msu_williamcolmer_6of11_houserulescommittee-6647_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/113
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/160">x-manuscripts_master-citizens_council_radio_forums_597-cook-eugene-ort_6130_msu_eugenecook_1of1_southernunity-6130_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/160
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/102">x-manuscripts_master-citizens_council_radio_forums_597-cramer-william-ort_6027_msu_williamcramer_1of3_supremecourt-6027_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/102
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/168">x-manuscripts_master-citizens_council_radio_forums_597-cramer-william-ort_6313_msu_williamcramer_2of3_cubancrisis-6313_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/168
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/87">x-manuscripts_master-citizens_council_radio_forums_597-cramer-william-ort_6352_msu_williamcramer_1of1_civilrights-6352_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/87
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/159">x-manuscripts_master-citizens_council_radio_forums_597-cramer-william-ort_6638_msu_williamcramer_3of3_riots-6638_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/159
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/220">x-manuscripts_master-citizens_council_radio_forums_597-curtis-carl-t-ort_6112_msu_carlcurtis_1of1_usurpation-6112_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/220
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/209">x-manuscripts_master-citizens_council_radio_forums_597-dale-alford-and-dr-louis-ore-ort_6020_msu_dalealford_1of1_health-6020_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/209
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/210">x-manuscripts_master-citizens_council_radio_forums_597-derwinski-edward-j-ort_6007_msu_edwardderwinski_1of1_taxburden-6007_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/210
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/78">x-manuscripts_master-citizens_council_radio_forums_597-dickinson-william-ort_6514_msu_williamdickinson_4of4_selmamarch-6514_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/78
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/156">x-manuscripts_master-citizens_council_radio_forums_597-dickinson-william-ort_6515_msu_williamdickinson_1of4_montgomery-6515_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/156
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/103">x-manuscripts_master-citizens_council_radio_forums_597-dickinson-william-ort_6519_msu_williamdickinson_3of4_montgomery-6519_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/103
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/257">x-manuscripts_master-citizens_council_radio_forums_597-dickinson-william-ort_6520_msu_williamdickinson_2of4_demonstration-6520_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/257
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/183">x-manuscripts_master-citizens_council_radio_forums_597-eastland-james-o-ort_5818_msu_jamesoeastland_2of4_communism-5818_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/183
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/276">x-manuscripts_master-citizens_council_radio_forums_597-eastland-james-o-ort_5929_msu_jamesoeastland_1of4_civilrightsact-5929_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/276
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/29">x-manuscripts_master-citizens_council_radio_forums_597-eastland-james-o-ort_6115__msu_jamesoeastland_4of4_supremecourtdecisions-6115_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/29
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/94">x-manuscripts_master-citizens_council_radio_forums_597-eastland-james-o-ort_6120_msu_jamesoeastland_3of4_communistthreat-6120_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/94
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/65">x-manuscripts_master-citizens_council_radio_forums_597-ellis-tom-q-ort_57x2_msu_tomellis_1of1_northernconcept-57x2_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/65
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/114">x-manuscripts_master-citizens_council_radio_forums_597-ervin-jr-sam-ort_5907_msu_samervinjr_5of5_civilrightslegislation-5907_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/114
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/90">x-manuscripts_master-citizens_council_radio_forums_597-ervin-jr-sam-ort_5931_msu_samervinjr_1of5_civilrightsbills-5931_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/90
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/264">x-manuscripts_master-citizens_council_radio_forums_597-ervin-jr-sam-ort_6004_msu_samervinjr_3of5_civilrightsbills-6004_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/264
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/116">x-manuscripts_master-citizens_council_radio_forums_597-ervin-jr-sam-ort_6121_msu_samervinjr_4of5_constitutionalrights-6121_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/116
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/111">x-manuscripts_master-citizens_council_radio_forums_597-ervin-jr-sam-ort_6226_msu_samervinjr_2of5_rulingonprayer-6226_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/111
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/147">x-manuscripts_master-citizens_council_radio_forums_597-evans-earl-ort_6045_msu_earlevans_1of1_unpledgedelectors-6045_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/147
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/79">x-manuscripts_master-citizens_council_radio_forums_597-evans-medford-dr-ort_6336r_msu_medfordevans_1of7_august28-6336r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/79
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/252">x-manuscripts_master-citizens_council_radio_forums_597-evans-medford-dr-ort_6349r_msu_medfordevans_5of7_presidentkennedy-6349r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/252
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/139">x-manuscripts_master-citizens_council_radio_forums_597-evans-medford-dr-ort_6419r_msu_medfordevans_4of7_publicopinion-6419r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/139
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/130">x-manuscripts_master-citizens_council_radio_forums_597-evans-medford-dr-ort_6436r_msu_medfordevans_6of7_privateschool-6436r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/130
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/230">x-manuscripts_master-citizens_council_radio_forums_597-evans-medford-dr-ort_6447r_msu_medfordevans_2of7_summer-6447r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/230
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/129">x-manuscripts_master-citizens_council_radio_forums_597-evans-medford-dr-ort_6528r_msu_medfordevans_3of7_newengland-6528r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/129
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/247">x-manuscripts_master-citizens_council_radio_forums_597-evans-medford-dr-ort_6541r_msu_medfordevans_7of7_privateschool2-6541r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/247
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/43">x-manuscripts_master-citizens_council_radio_forums_597-frank-boykin-and-l-mendel-rivers-ort_5833_msu_frankboykin_1of1_statesrights-5833_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/43
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/195">x-manuscripts_master-citizens_council_radio_forums_597-garrett-dr-henry-e-ort_6437r_msu_henrygarrett_2of2_raceproblem-6437r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/195
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/285">x-manuscripts_master-citizens_council_radio_forums_597-garrett-dr-henry-e-ort_6438r_msu_henrygarrett_1of2_choice-6438r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/285
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/23">x-manuscripts_master-citizens_council_radio_forums_597-gartin-carroll-ort_57x7_msu_carrollgartin_1of1_sovereignty-57x7_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/23
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/92">x-manuscripts_master-citizens_council_radio_forums_597-gayre-dr-robert-ort_6250_msu_robertgayre_1of2_racialdifferences-6250_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/92
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/242">x-manuscripts_master-citizens_council_radio_forums_597-george-andrews-and-john-patterson-ort_5917_msu_georgeandrews_1of1_civilrights-5917_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/242
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/85">x-manuscripts_master-citizens_council_radio_forums_597-george-dr-wc-ort_6248_msu_wcgeorge_1of1_biology-6248_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/85
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/133">x-manuscripts_master-citizens_council_radio_forums_597-gilmore-grady-ort_6124r_msu_gradygilmore_1of1_freedomriders-6124r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/133
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/52">x-manuscripts_master-citizens_council_radio_forums_597-goldwarter-barry-ort_5926_msu_barrygoldwater_1of1_laborandpolitics-5926_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/52
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/42">x-manuscripts_master-citizens_council_radio_forums_597-grant-george-ort_6032_msu_georgegrant_1of1_demonstrations-6032_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/42
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/281">x-manuscripts_master-citizens_council_radio_forums_597-graves-elmore-d-ort_58x9_msu_elmoregraves_1of1_slavery-58x9_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/281
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/271">x-manuscripts_master-citizens_council_radio_forums_597-gross-hr-ort_5946_msu_hrgross_1of1_civilrights-5946_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/271
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/66">x-manuscripts_master-citizens_council_radio_forums_597-harmen-randall-s-6019_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/66
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/228">x-manuscripts_master-citizens_council_radio_forums_597-harris-roy-v-ort_6343r_msu_royharris_1of1_northerninterest-6343r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/228
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/255">x-manuscripts_master-citizens_council_radio_forums_597-highlander-folk-school-ort_57x6_msu_highlanderfolkschool_1of1_socialistactivities-57x6_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/255
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/177">x-manuscripts_master-citizens_council_radio_forums_597-holland-spessard-l-ort_5939_msu_spessardholland_1of1_before1954-5939_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/177
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/164">x-manuscripts_master-citizens_council_radio_forums_597-hollings-earnest-f-ort_6128_msu_earnesthollings_1of1_southerngovernors-6128_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/164
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/37">x-manuscripts_master-citizens_council_radio_forums_597-hollis-lewis-ort_57x3_msu_lewishollis_2of6_leftwingpropaganda-57x3_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/37
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/105">x-manuscripts_master-citizens_council_radio_forums_597-hollis-lewis-ort_58x5_msu_lewishollis_4of6_churchliterature-58x5_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/105
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/143">x-manuscripts_master-citizens_council_radio_forums_597-hollis-lewis-ort_58x17_msu_lewishollis_1of6_surveyofjackson-58x17_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/143
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/200">x-manuscripts_master-citizens_council_radio_forums_597-hollis-lewis-ort_58x19_msu_lewishollis_6of6_surveyofjackson-58x19_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/200
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/76">x-manuscripts_master-citizens_council_radio_forums_597-hollis-lewis-ort_6424_msu_lewishollis_3of6_newgrowth-6424_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/76
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/280">x-manuscripts_master-citizens_council_radio_forums_597-howard-smith-and-william-colmer-ort_5908_msu_howardsmith_1of2_supremecourt-5908_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/280
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/39">x-manuscripts_master-citizens_council_radio_forums_597-howard-smith-and-william-colmer-ort_6117_msu_howardsmith_2of2_houserules-6117_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/39
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/30">x-manuscripts_master-citizens_council_radio_forums_597-james-c-davis-and-joel-broyhill-ort_5943_msu_jamesdavis_1of1_education-5943_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/30
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/245">x-manuscripts_master-citizens_council_radio_forums_597-james-haley-and-hamer-budge-ort_5819_msu_jameshaley_1of1_statesrights-5819_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/245
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/165">x-manuscripts_master-citizens_council_radio_forums_597-john-dowdy-and-john-bell-williams-ort_6305_msu_johndowdy_1of1_thanksgivingriot-6305_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/165
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/18">x-manuscripts_master-citizens_council_radio_forums_597-john-mcmillan-and-arthur-winstead-ort_5904_msu_johnmcmillan_1of1_integration-5904_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/18
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/205">x-manuscripts_master-citizens_council_radio_forums_597-johnson-paul-b-jr-ort_6131_msu_pauljohnson_1of1_southerngovernors-6131_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/205
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/198">x-manuscripts_master-citizens_council_radio_forums_597-johnston-olin-d-ort_5923_msu_olinjohnston_1of1_subversion-5923_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/198
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/283">x-manuscripts_master-citizens_council_radio_forums_597-jones-fred-ort_6126r_msu_fredjones_1of1_freedomriders-6126r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/283
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/215">x-manuscripts_master-citizens_council_radio_forums_597-kuttner-dr-robert-e-ort_6422_msu_robertkuttner_1of1_genetics-6422_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/215
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/28">x-manuscripts_master-citizens_council_radio_forums_597-kuykendall-john-ort_57x5_msu_johnkuykendall_1of2_individualfreedom-57x5_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/28
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/258">x-manuscripts_master-citizens_council_radio_forums_597-kuykendall-john-ort_58x20_msu_johnkuykendall_2of2_individualfreedom2-58x20_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/258
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/83">x-manuscripts_master-citizens_council_radio_forums_597-l-mendel-rivers-and-dale-alford-ort_5916_msu_lmendelrivers_1of1_civilrights-5916_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/83
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/174">x-manuscripts_master-citizens_council_radio_forums_597-ladner-heber-ort_58x18_msu_heberladner_1of1_supremecourt-58x18_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/174
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/131">x-manuscripts_master-citizens_council_radio_forums_597-lowman-mg-ort_6101r_msu_mglowman_5of12_racialincidents-6101r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/131
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/44">x-manuscripts_master-citizens_council_radio_forums_597-lowman-mg-ort_6230_msu_mglowman_1of12_circuitriders1-6230_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/44
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/254">x-manuscripts_master-citizens_council_radio_forums_597-lowman-mg-ort_6231_msu_mglowman_6of12_communistexploitation-6231_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/254
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/199">x-manuscripts_master-citizens_council_radio_forums_597-lowman-mg-ort_6235r_msu_mglowman_10of12_educationalfundpt3-6235r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/199
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/98">x-manuscripts_master-citizens_council_radio_forums_597-lowman-mg-ort_6241_msu_mglowman_3of12_communistchurches-6241_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/98
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/199">x-manuscripts_master-citizens_council_radio_forums_597-lowman-mg-ort_6330_msu_mglowman_12of12_racialagitation</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/199
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/135">x-manuscripts_master-citizens_council_radio_forums_597-lowman-mg-ort_6332_msu_mglowman_4of12_communistchurches2-6332_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/135
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/122">x-manuscripts_master-citizens_council_radio_forums_597-lowman-mg-ort_6427_msu_mglowman_2of12_civilrightsworkers-6427_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/122
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/272">x-manuscripts_master-citizens_council_radio_forums_597-lowman-mg-ort_6429r_msu_mglowman_8of12_mississippipt4-6429r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/272
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/112">x-manuscripts_master-citizens_council_radio_forums_597-lowman-mg-ort_6430r_msu_mglowman_7of12_mississippipt5-6430r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/112
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/275">x-manuscripts_master-citizens_council_radio_forums_597-lowman-mg-ort_6547r_msu_mglowman_11of12_democraticsociety-6547r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/275
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/137">x-manuscripts_master-citizens_council_radio_forums_597-lowman-mg-ort_6626_msu_mglowman_9of12_moraldecay-6626_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/137
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/123">x-manuscripts_master-citizens_council_radio_forums_597-martin-james-d-ort_6509_msu_jamesmartin_1of2_selma-6509_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/123
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/222">x-manuscripts_master-citizens_council_radio_forums_597-mason-noah-m-ort_5802_msu_noahmason_2of2_littlerock-5802_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/222
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/231">x-manuscripts_master-citizens_council_radio_forums_597-mason-noah-m-ort_6237r_msu_noahmason_1of2_integration-6237r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/231
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/175">x-manuscripts_master-citizens_council_radio_forums_597-matthews-billy-ort_5821_msu_billymatthews_1of1_statesrights-5821_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/175
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/124">x-manuscripts_master-citizens_council_radio_forums_597-mccorkle-sara-ort_58x1_msu_saramccorlke_2of2_womenincouncil-58x1_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/124
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/49">x-manuscripts_master-citizens_council_radio_forums_597-mccorkle-sara-ort_58x15_msu_saramccorkle_1of2_speeches-58x15_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/49
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/190">x-manuscripts_master-citizens_council_radio_forums_597-mississippi-congressional-delegation-ort_5801_msu_misscongdelegation_1of1_statesrights-5801_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/190
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/201">x-manuscripts_master-citizens_council_radio_forums_597-moore-judge-russel-d-ort_6239r_msu_russelmoore_1of1_olemiss-6239r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/201
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/19">x-manuscripts_master-citizens_council_radio_forums_597-mundt-karl-ort_5944_msu_karlmundt_1of1_freedomacademy-5944_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/19
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/221">x-manuscripts_master-citizens_council_radio_forums_597-oc-fisher-et-al-ort_5803_msu_ocfisher_1of1_sovereignty-5803_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/221
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/214">x-manuscripts_master-citizens_council_radio_forums_597-patterson-joe-t-ort_58x7_msu_joetpatterson_3of3_mississippisprogress-58x7_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/214
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/93">x-manuscripts_master-citizens_council_radio_forums_597-patterson-joe-t-ort_6125r_msu_joetpatterson_1of3_freedomriders-6125r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/93
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/194">x-manuscripts_master-citizens_council_radio_forums_597-patterson-joe-t-ort_6229_msu_joetpatterson_2of3_federalinvestigation-6229_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/194
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/108">x-manuscripts_master-citizens_council_radio_forums_597-patterson-john-ort_6129_msu_johnpatterson_1of1_governorsconference-6129_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/108
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/100">x-manuscripts_master-citizens_council_radio_forums_597-perez-leander-ort_6103r_msu_leanderperez_2of2_neworleans-6103r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/100
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/91">x-manuscripts_master-citizens_council_radio_forums_597-perkins-john-ort_6104r_msu_johnperkins_1of2_conservativetrend-6104r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/91
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/45">x-manuscripts_master-citizens_council_radio_forums_597-pike-county-officers-of-citizens-council-ort_58x16_msu_pikecoofficers_1of1_pikecountycouncil-58x16_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/45
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/100">x-manuscripts_master-citizens_council_radio_forums_597-putnam-carleton-ort_6147_msu_carletonputnam_6of6_raceissue-6147_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/100
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/238">x-manuscripts_master-citizens_council_radio_forums_597-putnam-carleton-ort_6219r_msu_carletonputnam_4of6_raceandreason1-6219r_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/238
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/35">x-manuscripts_master-citizens_council_radio_forums_597-putnam-carleton-ort_6242r_msu_carletonputnam_5of6_raceandreason2-6242r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/35
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/120">x-manuscripts_master-citizens_council_radio_forums_597-putnam-carleton-ort_6243r_msu_carletonputnam_3of6_equalitarianism-6243r_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/120
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/72">x-manuscripts_master-citizens_council_radio_forums_597-putnam-carleton-ort_6552_msu_carletonputnam_1of6_rhodesia-6552_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/72
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/27">x-manuscripts_master-citizens_council_radio_forums_597-putnam-carleton-ort_6601_msu_carletonputnam_2of6_selfgovernment-6601_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/27
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/157">x-manuscripts_master-citizens_council_radio_forums_597-rainach-wm-ort_58x10_msu_wmrainach_1of1_racerelations-58x10_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/157
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/244">x-manuscripts_master-citizens_council_radio_forums_597-robert-lf-sikes-and-jamie-whitten-ort_5832_msu_robertsikes_1of1_centralization-5832_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/244
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/219">x-manuscripts_master-citizens_council_radio_forums_597-russel-richard-b-ort_5927_msu_richardrussel_1of1_civilrightsbills-5927_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/219
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/226">x-manuscripts_master-citizens_council_radio_forums_597-satterfield-john-c-ort_6345_msu_johnsatterfield_1of2_civilrightsact-6345_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/226
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/55">x-manuscripts_master-citizens_council_radio_forums_597-selden-armistad-ort_6508_msu_armistadselden_1of1_selma-6508_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/55
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/86">x-manuscripts_master-citizens_council_radio_forums_597-shearer-william-k-ort_6240_msu_williamshearer_1of1_oxford-6240_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/86
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/86">x-manuscripts_master-citizens_council_radio_forums_597-simmons-w-j-ort_58x14_msu_w-j-simmons_7-of-16_civil-rights-comission-58x14_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/86
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/202">x-manuscripts_master-citizens_council_radio_forums_597-simmons-w-j-ort_58x21_msu_w-j-simmons_8-of-16_information-and-education-58x21_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/202
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/77">x-manuscripts_master-citizens_council_radio_forums_597-simmons-w-j-ort_6245r_msu_w-j-simmons_6-of-16_executive-order-6245r_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/77
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/178">x-manuscripts_master-citizens_council_radio_forums_597-simmons-w-j-ort_6337r_msu_w-j-simmons_3-of-16_citizens-council-purpose-6337r_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/178
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/197">x-manuscripts_master-citizens_council_radio_forums_597-simmons-w-j-ort_6411r_msu_w-j-simmons_10-of-16_race-relations-6411r_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/197
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/232">x-manuscripts_master-citizens_council_radio_forums_597-simmons-w-j-ort_6412_msu_w-j-simmons_4-of-16_hawaii-6412_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/232
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/16">x-manuscripts_master-citizens_council_radio_forums_597-simmons-w-j-ort_6424r_msu_w-j-simmons_1-of-16_10th-anniversary-6424r_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/16
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/233">x-manuscripts_master-citizens_council_radio_forums_597-simmons-w-j-ort_6431_msu_w-j-simmons_16-of-16_racial-disturbance-6431_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/233
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/126">x-manuscripts_master-citizens_council_radio_forums_597-simmons-w-j-ort_6434r_msu_w-j-simmons_14-of-16_school-integration-6434r_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/126
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/193">x-manuscripts_master-citizens_council_radio_forums_597-simmons-w-j-ort_6440r_msu_w-j-simmons_2-of-16_1964-fall-term-6440r_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/193
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/203">x-manuscripts_master-citizens_council_radio_forums_597-simmons-w-j-ort_6445r_msu_w-j-simmons_5-of-16_presidental-election-6445r_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/203
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/270">x-manuscripts_master-citizens_council_radio_forums_597-simmons-w-j-ort_6535r_msu_w-j-simmons_9-of-16_los-angeles-riots-6535r_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/270
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/142">x-manuscripts_master-citizens_council_radio_forums_597-simmons-w-j-ort_6549r_msu_w-j-simmons_13-of-16_rhodesian-independence-6549r_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/142
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/32">x-manuscripts_master-citizens_council_radio_forums_597-simmons-w-j-ort_6622_msu_w-j-simmons_12-of-16_trip-to-africa-6622_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/32
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/180">x-manuscripts_master-citizens_council_radio_forums_597-simmons-w-j-ort_6623_msu_w-j-simmons_15-of-16_south-africa-6623_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/180
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/184">x-manuscripts_master-citizens_council_radio_forums_597-simmons-w-j-ort_6630_msu_w-j-simmons_11-of-16_racial-disturbances-6630_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/184
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/46">x-manuscripts_master-citizens_council_radio_forums_597-smith-frank-ort_5823_msu_franksmith_1of2_liberalefforts-5823_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/46
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/266">x-manuscripts_master-citizens_council_radio_forums_597-smith-frank-ort_5940_msu_franksmith_2of2_southernview-5940_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/266
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/33">x-manuscripts_master-citizens_council_radio_forums_597-smith-ian-ort_6619a_msu_iansmith_1of2_interview1-6619a_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/33
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/54">x-manuscripts_master-citizens_council_radio_forums_597-smith-ian-ort_6620a_msu_iansmith_2of2_interview2-6620a_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/54
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/59">x-manuscripts_master-citizens_council_radio_forums_597-stennis-john-ort_5828_msu_john-stennis_10-of-13_statesrights-5828_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/59
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/75">x-manuscripts_master-citizens_council_radio_forums_597-stennis-john-ort_5912_msu_john-stennis_3-of-13_rule-changes-5912_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/75
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/75">x-manuscripts_master-citizens_council_radio_forums_597-stennis-john-ort_5932_msu_johnstennis_2of13_civilrights-5932_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/75
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/31">x-manuscripts_master-citizens_council_radio_forums_597-stennis-john-ort_6002_msu_john-stennis_5-of-13_civil-rights-bills-6002_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/31
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/207">x-manuscripts_master-citizens_council_radio_forums_597-stennis-john-ort_6111_msu_john-stennis_11-of-13_military-preparedness-6111_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/207
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/64">x-manuscripts_master-citizens_council_radio_forums_597-stennis-john-ort_6144_msu_john-stennis_12-of-13_military-strength-6144_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/64
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/196">x-manuscripts_master-citizens_council_radio_forums_597-stennis-john-ort_6209_msu_john-stennis_8-of-13_muzzling-of-the-military</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/196
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/265">x-manuscripts_master-citizens_council_radio_forums_597-stennis-john-ort_6224_msu_john-stennis_13-of-13_decision-on-prayer-6224_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/265
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/259">x-manuscripts_master-citizens_council_radio_forums_597-stennis-john-ort_6238_msu_john-stennis_9of13_university-of-mississippi-6238_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/259
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/246">x-manuscripts_master-citizens_council_radio_forums_597-stennis-john-ort_6309_msu_john-stennis_7-of-13_cuban-situation-6309_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/246
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/284">x-manuscripts_master-citizens_council_radio_forums_597-stennis-john-ort_6321_msu_john-stennis_6-of-13_cuban-military-6321_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/284
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/97">x-manuscripts_master-citizens_council_radio_forums_597-stennis-john-ort_6606r_msu_john-stennis_4-of-13_vietnam-6606r_access-files</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/97
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/60">x-manuscripts_master-citizens_council_radio_forums_597-stevens-boswell-ort_6139_msu_boswellstevens_1of1_farmers-6139_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/60
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/95">x-manuscripts_master-citizens_council_radio_forums_597-talmadge-herman-ort_5901_msu_hermantalmadge_3of3_integration-5901_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/95
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/158">x-manuscripts_master-citizens_council_radio_forums_597-talmadge-herman-ort_5933_msu_hermantalmadge_1of3_civilrights-5933_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/158
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/204">x-manuscripts_master-citizens_council_radio_forums_597-talmadge-herman-ort_6009_msu_hermantalmadge_2of3_presidentialelection-6009_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/204
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/109">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_5825_msu_stromthurmond_29of38_biggovernment-5825_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/109
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/171">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_5910_msu_stromthurmond_16of38_integration-5910_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/171
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/99">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6118_msu_stromthurmond_26of38_electoralcollege-6118_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/99
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/40">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6140_msu_stromthurmond_28of38_fulbrightmemorandum-6140_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/40
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/277">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6141_msu_stromthurmond_14of38_fulbright2-6141_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/277
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/263">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6145_msu_stromthurmond_13of38_fulbright-6145_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/263
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/118">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6146_msu_stromthurmond_34of38_communistthreat-6146_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/118
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/162">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6148_msu_stromthurmond_38of38_raceandreason-6148_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/162
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/262">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6204_msu_stromthurmond_17of38_censorship-6204_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/262
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/279">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6205_msu_stromthurmond_20of38_americanvictory-6205_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/279
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/151">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6211_msu_stromthurmond_15of38_muzzlingthemilitary-6211_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/151
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/36">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6214_msu_stromthurmond_21of38_worldpeace-6214_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/36
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/181">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6218_msu_stromthurmond_35of38_communism-6218_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/181
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/235">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6228_msu_stromthurmond_23of38_paryerinschools-6228_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/235
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/237">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6233r_msu_stromthurmond_37of38_communistparties-6233r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/237
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/176">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6308_msu_stromthurmond_9of38_cubansituation-6308_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/176
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/47">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6314_msu_stromthurmond_25of38_cubanexiles-6314_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/47
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/68">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6316_msu_stromthurmond_36of38_cubaandkorea-6316_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/68
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/101">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6322_msu_stromthurmond_27of38_cubanmilitary-6322_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/101
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/267">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6328_msu_stromthurmond_2of38_civilrights-6328_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/267
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/186">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6334_msu_stromthurmond_19of38_nucleartest-6334_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/186
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/134">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6405_msu_stromthurmond_1of38_twoissues-6405_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/134
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/191">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6406_msu_stromthurmond_3of38_crproposal2-6406_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/191
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/24">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6418_msu_stromthurmond_6of38_communistinfluence-6418_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/24
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/217">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6432_msu_stromthurmond_24of38_raceproblems-6432_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/217
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/213">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6433_msu_stromthurmond_10of38_racerelations-6433_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/213
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/250">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6506_msu_stromthurmond_12of38_foriegnaid-6506_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/250
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/50">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6507_msu_stromthurmond_22of38_federalaid-6507_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/50
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/239">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6517_msu_stromthurmond_32of38_votingrights-6517_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/239
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/163">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6518_msu_stromthurmond_8of38_statesrights-6518_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/163
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/249">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6525_msu_stromthurmond_5of38_communismandcr2-6525_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/249
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/278">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6526_msu_stromthurmond_4of38_communismandcr-6526_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/278
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/144">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6531_msu_stromthurmond_7of38_communistinvolvement-6531_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/144
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/82">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6536_msu_stromthurmond_18of38_losangeles-6536_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/82
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/115">x-manuscripts_master-citizens_council_radio_forums_597-thurmond-strom-ort_6607_msu_stromthurmond_31of38_vietnam-6607_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/115
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/106">x-manuscripts_master-citizens_council_radio_forums_597-tuck-william-ort_5918_msu_williamtuck_1of2_virginia-5918_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/106
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/208">x-manuscripts_master-citizens_council_radio_forums_597-tuck-william-ort_6028_msu_williamtuck_2of2_browncase</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/208
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/25">x-manuscripts_master-citizens_council_radio_forums_597-wagner-emile-a-jr-ort_6102r_msu_emilewagner_1of1_neworleans-6102r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/25
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/218">x-manuscripts_master-citizens_council_radio_forums_597-walker-edwin-a-ort_6201_msu_edwinwalker_1of2_resignation-6201_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/218
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/192">x-manuscripts_master-citizens_council_radio_forums_597-wallace-george-c-ort_6246r_msu_georgecwallace_1of9_federaltroops-6246r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/192
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/71">x-manuscripts_master-citizens_council_radio_forums_597-wallace-george-c-ort_6415r_msu_georgecwallace_6of9_presidentialprimary-6415r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/71
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/58">x-manuscripts_master-citizens_council_radio_forums_597-wallace-george-c-ort_6416_msu_georgecwallace_7of9_presidentialprimary2-6416_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/58
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/51">x-manuscripts_master-citizens_council_radio_forums_597-wallace-george-c-ort_6441_msu_georgecwallace_9of9_publicschools1-6441_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/51
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/117">x-manuscripts_master-citizens_council_radio_forums_597-wallace-george-c-ort_6442r_msu_georgecwallace_8of9_publicschools2-6442r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/117
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/80">x-manuscripts_master-citizens_council_radio_forums_597-wallace-george-c-ort_6511_msu_georgecwallace_3of9_selma-6511_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/80
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/212">x-manuscripts_master-citizens_council_radio_forums_597-wallace-george-c-ort_6512r_msu_georgecwallace_5of9_selma2-6512r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/212
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/260">x-manuscripts_master-citizens_council_radio_forums_597-wallace-george-c-ort_6639_msu_georgecwallace_2of9_schooloperation-6639_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/260
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/229">x-manuscripts_master-citizens_council_radio_forums_597-wallace-george-c-ort_6640r_msu_georgecwallace_4of9_publicattitude-6640r_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/229
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/256">x-manuscripts_master-citizens_council_radio_forums_597-watson-albert-ort_6529_msu_albertwatson_1of1_votingrights-6529_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/256
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/128">x-manuscripts_master-citizens_council_radio_forums_597-watt-abbott-and-basil-whitener-ort_5831_msu_wattabbott_1of1_statesrightsbills-5831_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/128
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/21">x-manuscripts_master-citizens_council_radio_forums_597-whitten-jamie-ort_5948_msu_jamiewhitten_1of5_supremecourt-5948_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/21
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/261">x-manuscripts_master-citizens_council_radio_forums_597-whitten-jamie-ort_6030_msu_jamiewhitten_3of5_unitedsouthernaction-6030_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/261
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/173">x-manuscripts_master-citizens_council_radio_forums_597-whitten-jamie-ort_6035_msu_jamiewhitten_2of5_farmproblem-6035_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/173
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/206">x-manuscripts_master-citizens_council_radio_forums_597-whitten-jamie-ort_6206_msu_jamiewhitten_5of5_usexpenditures-6206_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/206
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/26">x-manuscripts_master-citizens_council_radio_forums_597-whitten-jamie-ort_6644_msu_jamiewhitten_4of5_antiriotbill-6644_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/26
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/282">x-manuscripts_master-citizens_council_radio_forums_597-williams-john-bell-ort_5826_msu_johnbellwilliams_17of17_separationofpower-5826_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/282
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/185">x-manuscripts_master-citizens_council_radio_forums_597-williams-john-bell-ort_5906_msu_johnbellwilliams_13of17_voterdiscrimination-5906_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/185
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/241">x-manuscripts_master-citizens_council_radio_forums_597-williams-john-bell-ort_5914_msu_johnbellwilliams_14of17_socializedmedicine-5914_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/241
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/172">x-manuscripts_master-citizens_council_radio_forums_597-williams-john-bell-ort_5922_msu_johnbellwilliams_16of17_supremecourt-5922_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/172
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/81">x-manuscripts_master-citizens_council_radio_forums_597-williams-john-bell-ort_6017_msu_johnbellwilliams_6of17_agitation-6017_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/81
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/89">x-manuscripts_master-citizens_council_radio_forums_597-williams-john-bell-ort_6122_msu_johnbellwilliams_5of17_cubansituation-6122_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/89
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/140">x-manuscripts_master-citizens_council_radio_forums_597-williams-john-bell-ort_6222_msu_johnbellwilliams_12of17_unitednations-6222_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/140
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/153">x-manuscripts_master-citizens_council_radio_forums_597-williams-john-bell-ort_6247_msu_johnbellwilliams_15of17_racialproblems-6247_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/153
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/38">x-manuscripts_master-citizens_council_radio_forums_597-williams-john-bell-ort_6329_msu_johnbellwilliams_2of17_racialdemonstrations-6329_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/38
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/53">x-manuscripts_master-citizens_council_radio_forums_597-williams-john-bell-ort_6414_msu_johnbellwilliams_3of17_civilrights-6414_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/53
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/69">x-manuscripts_master-citizens_council_radio_forums_597-williams-john-bell-ort_6521_msu_johnbellwilliams_8of17_schoolproblems-6521_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/69
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/96">x-manuscripts_master-citizens_council_radio_forums_597-williams-john-bell-ort_6522_msu_johnbellwilliams_7of17_southerngovernors-6522_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/96
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/150">x-manuscripts_master-citizens_council_radio_forums_597-williams-john-bell-ort_6543_msu_johnbellwilliams_4of17_vietnam-6543_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/150
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/136">x-manuscripts_master-citizens_council_radio_forums_597-williams-john-bell-ort_6628_msu_johnbellwilliams_11of17_primaryelections-6628_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/136
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/22">x-manuscripts_master-citizens_council_radio_forums_597-williams-john-bell-ort_6629_msu_johnbellwilliams_10of17_johnsonadministration-6629_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/22
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/88">x-manuscripts_master-citizens_council_radio_forums_597-williams-john-bell-ort_6645_msu_johnbellwilliams_9of17_socialisttrends-6645_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/88
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/48">x-manuscripts_master-citizens_council_radio_forums_597-winstead-arthur-ort_5816_msu_arthurwinstead_4of6_statesrights-5816_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/48
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/189">x-manuscripts_master-citizens_council_radio_forums_597-winstead-arthur-ort_6036_msu_arthurwinstead_1of6_southafrica-6036_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/189
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/57">x-manuscripts_master-citizens_council_radio_forums_597-winstead-arthur-ort_6037_msu_arthurwinstead_2of6_racialcomposition-6037_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/57
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/125">x-manuscripts_master-citizens_council_radio_forums_597-winstead-arthur-ort_6039_msu_arthurwinstead_3of6_racesituation-6039_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/125
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/20">x-manuscripts_master-citizens_council_radio_forums_597-winstead-arthur-ort_6221_msu_arthurwinstead_5of6_sermon-6221_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/20
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/223">x-manuscripts_master-citizens_council_radio_forums_597-winstead-arthur-ort_6223_msu_arthurwinstead_6of6_civildefense-6223_accessfiles</a></td>
+                <!-- <td>
+                  http://cdm16631.contentdm.oclc.org/cdm/ref/collection/p16631coll22/id/223
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+:ET

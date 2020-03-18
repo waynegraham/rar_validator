@@ -1,0 +1,993 @@
+I"1¡<div class="row">
+  <div class="col-xl-8 col-lg-12 col-md-12 col-12">
+    <div class="card">
+      <h5 class="card-header">Check Details</h5>
+      <div class="card-body">
+        <table class="table table-striped">
+          <thead>
+            <tr>
+              <th scope="col">Status</th>
+              <th scope="col">Status Code</th>
+              <th scope="col">Filename</th>
+              <th scope="col">URL</th>
+              <th scope="col">Checksum</th>
+              <th scope="col">Restricted</th>
+            </tr>
+          </thead>
+          <tbody>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r47944d6s">rl10059-rr-0102_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r47944d6s
+                </td> -->
+                <td>b1cbec207545f5f87c50fb3637383d52fc64b079</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4pk0bn37">rl10059-rr-0106_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4pk0bn37
+                </td> -->
+                <td>6e6809cbf5d3e7e1a889bbd33ab18203cf6a39d5</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4hh6gr76">rl10059-rr-0113_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4hh6gr76
+                </td> -->
+                <td>0d54a95c0832e1dff953fb3b820b09472a7c5931</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r46t0mg2w">rl10059-rr-0118_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r46t0mg2w
+                </td> -->
+                <td>f2a7907a1f5242afa48c3ced5b2239ec8902475d</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4x06200j">rl10059-rr-0126_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4x06200j
+                </td> -->
+                <td>daf2e41917133e298da1e7544097d6f48b60ef2e</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4474bc1s">rl10059-rr-0132_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4474bc1s
+                </td> -->
+                <td>ca3e717d8352649ec741e1955ff3891dfd33251c</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4w37qg37">rl10059-rr-0143_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4w37qg37
+                </td> -->
+                <td>21398682d3999e9586539a9380ee175787eb9af7</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r40v8f389">rl10059-rr-0147_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r40v8f389
+                </td> -->
+                <td>e6f0025c45e12c8193f2d06c4421abbc810dc0b0</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4zk59679">rl10059-rr-0148_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4zk59679
+                </td> -->
+                <td>87dd0581037e022d0332ff6ae1f33a6082dcc5d1</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r43b60v1d">rl10059-rr-0149_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r43b60v1d
+                </td> -->
+                <td>a710baa32ca09bbd76bd3b2ac575e2b72ded477c</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4mc8w242">rl10059-rr-0151_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4mc8w242
+                </td> -->
+                <td>c189cffeed6bafac1630269c77135cd8e984c421</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r43x8762w">rl10059-rr-0158_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r43x8762w
+                </td> -->
+                <td>0bfbd38c16e2afa800379f6a930fac205768e01b</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r48g8k375">rl10059-rr-0166_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r48g8k375
+                </td> -->
+                <td>50595826bd3ded416fb2e6d621c61907f2ed00dd</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4416xj9m">rl10059-rr-0168_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4416xj9m
+                </td> -->
+                <td>900b9a278592071be92c00410f078688424fc221</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r48915b50">rl10059-rr-0174_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r48915b50
+                </td> -->
+                <td>c48a25cac37a0bec9f8727f71c035ad8b39dd760</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4251k56z">rl10059-rr-0186_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4251k56z
+                </td> -->
+                <td>03d6bba506a66cdb1cde3127d11435e8578e310a</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4668d494">rl10059-rr-0187_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4668d494
+                </td> -->
+                <td>792007c9a1c3f739562c818bcaf1f93d0e4853bb</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4r49kv8s">rl10059-rr-0190_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4r49kv8s
+                </td> -->
+                <td>500dd4ace68205e11facba733f09edcb322ebd65</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4222vs18">rl10059-rr-0196_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4222vs18
+                </td> -->
+                <td>1a95057b5b4dabc5426d595a991baa17577e1272</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4zp40m26">rl10059-rr-0197_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4zp40m26
+                </td> -->
+                <td>54553be8ce9bff3c61a900a9fb3b92212d66e998</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4xp6zp62">rl10059-rr-0206_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4xp6zp62
+                </td> -->
+                <td>16fe9addda3851c7760bfd8fdb575c4a5ef0f56b</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4vx09p8p">rl10059-rr-0207_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4vx09p8p
+                </td> -->
+                <td>f5a70b67b9cb2d2868947be837f7cd1779457b1f</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4930sf1q">rl10059-rr-0208_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4930sf1q
+                </td> -->
+                <td>c65a6ac627b5aac262ce92512a017ca53cfe5f69</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4hq3wk1z">rl10059-rr-0212_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4hq3wk1z
+                </td> -->
+                <td>32acfa9161a2952ebce119d5d6f7d3aee6cd4741</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4k35r068">rl10059-rr-0218_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4k35r068
+                </td> -->
+                <td>75f5179a914c62ff2199f105cc0780dcfc26e0a0</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4gq6vn37">rl10059-rr-0228_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4gq6vn37
+                </td> -->
+                <td>6541d7b92d8ab9c0b325589e79a2d1b7e2c862c4</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4ww7bm0z">rl10059-rr-0237_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4ww7bm0z
+                </td> -->
+                <td>6e1f0a48184e7b3bb7d3fca1f1ecfd10f7979253</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r49886746">rl10059-rr-0239_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r49886746
+                </td> -->
+                <td>6200576a25c3f8226f7e929b2ca1e84867fabbd5</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4cr5q90p">rl10059-rr-0244_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4cr5q90p
+                </td> -->
+                <td>07d30b82003cf9f3969a9e572508042f3414d700</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4862fx77">rl10059-rr-0266_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4862fx77
+                </td> -->
+                <td>7941a7b788cdc52bda7e48d05139450a66b5dccb</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4kh0jk36">rl10059-rr-0269_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4kh0jk36
+                </td> -->
+                <td>37ba379cd50d6f94c089160a50bd2e56a5316021</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4dr2sv96">rl10059-rr-0271_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4dr2sv96
+                </td> -->
+                <td>7eef23dda0593acfe029dbebc27cd1117c592ff2</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4f18x141">rl10059-rr-0283_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4f18x141
+                </td> -->
+                <td>90e86ec8c47c722da84236bc85b41df897c86266</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4zc7wd9p">rl10059-rr-0298_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4zc7wd9p
+                </td> -->
+                <td>fa40c05fd9fe08006b0db6ca3a9235979656b053</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4qj7ch9c">rl10059-rr-0299_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4qj7ch9c
+                </td> -->
+                <td>98e3c99ff17789ac2163e5d253076f2c171a2279</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r49s1q57g">rl10059-rr-0301_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r49s1q57g
+                </td> -->
+                <td>cdc29e94cf0ccbe46aab94c3aee63d6508950f45</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4b857410">rl10059-rr-0336_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4b857410
+                </td> -->
+                <td>a88c4ccd85483e5b6d09e65650774a86ca5b6b3b</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4x061z72">rl10059-rr-0346_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4x061z72
+                </td> -->
+                <td>9fe34940cc08fe1e3917fa49d4aa4fc7ae386ab6</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4g73bq3z">rl10059-rr-0353_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4g73bq3z
+                </td> -->
+                <td>497f3d321ffe03f33832b4954c62525d9afb3c7e</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4z032v2w">rl10059-rr-0361_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4z032v2w
+                </td> -->
+                <td>f38e18d14572afb6dce8d104f774ab6533c5c821</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r42b8zx96">rl10059-rr-0362_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r42b8zx96
+                </td> -->
+                <td>38b6a7519fda27be63c1cd6977475eefcafccb12</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4tm75m7w">rl10059-rr-0367_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4tm75m7w
+                </td> -->
+                <td>a06ac7aade0a23f56d15805c393b9d6748640ae8</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4m61g93c">rl10059-rr-0394_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4m61g93c
+                </td> -->
+                <td>0ee4892a5892124250e6b5aa533f8a6a868d582c</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r46h4hb1s">rl10059-rr-0395_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r46h4hb1s
+                </td> -->
+                <td>42f887f4cbd5f8cf6fed33132a4d972fc26a9836</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4c24v781">rl10059-rr-0401_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4c24v781
+                </td> -->
+                <td>75e96e532aaef7b977e5c9ffa386294e54d1b75a</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4765f20g">rl10059-rr-0403_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4765f20g
+                </td> -->
+                <td>7573c04a5545eae56e90549ea9b27d9be7b59076</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4cr5rz9z">rl10059-rr-0425_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4cr5rz9z
+                </td> -->
+                <td>9a005e67b1fa38b7e7d776f3b015ff8c15ed8f6d</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r47s7nc13">rl10059-rr-0431_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r47s7nc13
+                </td> -->
+                <td>eefc448031ae4f3a440c7fe4e1f5522255a05cee</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r43f4q81r">rl10059-rr-0440_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r43f4q81r
+                </td> -->
+                <td>d1098dd2b4fc193bcf39498341ac6531460c5251</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r42b8zz1s">rl10059-rr-0459_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r42b8zz1s
+                </td> -->
+                <td>955d5d33310b9d6b74b5516242f99ae591746e44</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4sn04q95">rl10059-rr-0479_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4sn04q95
+                </td> -->
+                <td>74b3d42c5f39843578e0e701835cad263403eba1</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4fn14c51">rl10059-rr-0527_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4fn14c51
+                </td> -->
+                <td>c068b252d7e82b0cb9b4cd8752abeb8111b42946</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r42r3sh14">rl10059-rr-0596_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r42r3sh14
+                </td> -->
+                <td>e8e4181f4afa5281aba1faf303ff1f0719786b41</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r49c6wm17">rl10059-rr-0625_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r49c6wm17
+                </td> -->
+                <td>a7cef3dc631a8444b9bb197a100eff1867dfd8e3</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4k071n0x">rl10059-rr-0637_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4k071n0x
+                </td> -->
+                <td>9ea9ad3729da6dfc677eed4249d8724b6ac335a7</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4w95474v">rl10059-rr-0688_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4w95474v
+                </td> -->
+                <td>afa2e5bae97c67bb55b7ca8b34cb402ca45062e6</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4z89614s">rl10059-rr-0717_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4z89614s
+                </td> -->
+                <td>f7fb8d9f21d4f365803adef9f7a577adfa1bdd91</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4mw2d09p">rl10059-rr-0828_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4mw2d09p
+                </td> -->
+                <td>fa026b754b32405bd8a6d4a8faba26e554bfd884</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4wh2j161">rl10059-rr-0894_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4wh2j161
+                </td> -->
+                <td>dd7cf401bd3d19563a1e53c1adcf820048c1daaf</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4dr2sv58">rl10059-rr-0906_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4dr2sv58
+                </td> -->
+                <td>9351b038d122ff7a6ceef7c7cb5343bc647e036b</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4474bb58">rl10059-rr-0921_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4474bb58
+                </td> -->
+                <td>893e3210207cc00503cea24bda0629c3231f6db4</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4ft8j53q">rl10059-rr-0922_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4ft8j53q
+                </td> -->
+                <td>7a878241f01e5aea58d7bd94011919b8213edd35</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4jd4t87k">rl10059-rr-0944_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4jd4t87k
+                </td> -->
+                <td>8ecdd8992208e7decc167efde8bf9a0324a6846a</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4fb5168d">rl10059-rr-0945_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4fb5168d
+                </td> -->
+                <td>cc283d6293fc6967476e4ce001d4f41b5bae576b</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r45d8s09n">rl10059-rr-0969_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r45d8s09n
+                </td> -->
+                <td>fa12471be429fe95bede176a687ffea69b1e68e6</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4vq2wx15">rl10059-rr-1020_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4vq2wx15
+                </td> -->
+                <td>6d6ceb99356c55ee0b125ce8ccf0b82e34863fa9</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r40003k98">rl10059-rr-1042_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r40003k98
+                </td> -->
+                <td>d5fbecadcbdc35f75a7e1c6d1a3c56cfdf053bdc</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r43f4q776">rl10059-rr-1061_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r43f4q776
+                </td> -->
+                <td>5aca3f5447fb468c9bb35d6d4880c3abccbd6b65</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r41g0nf1c">rl10059-rr-1183_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r41g0nf1c
+                </td> -->
+                <td>26c4ed6ac48405c0f86ecbfdbd6d79163b7c37a1</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4gf0rg46">rl10059-rr-1194_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4gf0rg46
+                </td> -->
+                <td>6cf2a3f05a71f2b25295ff9f67781c709bf8204b</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4sj1fb7b">rl10059-rr-1198_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4sj1fb7b
+                </td> -->
+                <td>952c5ae98a6445e6b488c08c655a652960e43e0b</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4ks6nq4r">rl10059-rr-1323_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4ks6nq4r
+                </td> -->
+                <td>533c6ddf11a563048f05c5ccedc30410e1050a94</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4n876k2f">rl10059-rr-1358_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4n876k2f
+                </td> -->
+                <td>c98fd07cebfc4cd89cbec24bcb482855a0e9c4a0</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4gt5k18x">rl10059-rr-1364_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4gt5k18x
+                </td> -->
+                <td>b5f0ed31dafbb67cdabceb0c303cd95097267be3</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r49s1q522">rl10059-rr-1365_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r49s1q522
+                </td> -->
+                <td>0e04f6cf5efcb225c0dd9f08e5c35684ca006084</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4dn43g1v">rl10059-rr-1390_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4dn43g1v
+                </td> -->
+                <td>cc4bf470236bd3a1b6ea64b81a129d86394eb3a0</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4gm8578q">rl10059-rr-1401_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4gm8578q
+                </td> -->
+                <td>ab53ed73ef95782675a5ec5b20c8e8558529b27d</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4765f14z">rl10059-rr-1453_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4765f14z
+                </td> -->
+                <td>fdfa83ca720f3a7b8ada2821e1e01cd48eb568c3</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r48g8k407">rl10059-rr-1477_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r48g8k407
+                </td> -->
+                <td>7fc68651ee71576106a114106620f2c316e04eb7</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4q818d0d">rl10059-rr-1564_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4q818d0d
+                </td> -->
+                <td>46f52c5781cafee8bcf4e3d096957d6ae9c08f86</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4pc2xv9j">rl10059-rr-1589_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4pc2xv9j
+                </td> -->
+                <td>8a58fe722697cd672aed30856f4f42761a866661</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>302</td>
+                <td><a href="https://idn.duke.edu/ark:/87924/r4x34rc01">rl10059-rr-1629_01-mp3</a></td>
+                <!-- <td>
+                  https://idn.duke.edu/ark:/87924/r4x34rc01
+                </td> -->
+                <td>71d6b46978378e544cf58bba7684424a5a38651e</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>Invalid URL</td>
+                <td><a href="Invalid URL">rl10059-rr-0103_01-mp3</a></td>
+                <!-- <td>
+                  Invalid URL
+                </td> -->
+                <td>82578be32292f86f0be15096d6affe50e3226b5d</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>Invalid URL</td>
+                <td><a href="Invalid URL">rl10059-rr-0236_01-mp3</a></td>
+                <!-- <td>
+                  Invalid URL
+                </td> -->
+                <td>c740b3fcffefc254da249999864478341c95dfd6</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>Invalid URL</td>
+                <td><a href="Invalid URL">rl10059-rr-1179_01-mp3</a></td>
+                <!-- <td>
+                  Invalid URL
+                </td> -->
+                <td>35c703ef7fa1409449bb0d7547d0a160a385c8ad</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>Invalid URL</td>
+                <td><a href="Invalid URL">rl10059-rr-1393_01-mp3</a></td>
+                <!-- <td>
+                  Invalid URL
+                </td> -->
+                <td>b218bcad52ce9f0e35c3a2e8784464e996ce188d</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>Invalid URL</td>
+                <td><a href="Invalid URL">rl10059-rr-1635_01-mp3</a></td>
+                <!-- <td>
+                  Invalid URL
+                </td> -->
+                <td>ebc280b439428095015fee6fd4bf6f5db8106cf6</td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>Invalid URL</td>
+                <td><a href="Invalid URL">rl10059-rr-1652_01-mp3</a></td>
+                <!-- <td>
+                  Invalid URL
+                </td> -->
+                <td>a6fffc9ed3de973997b28d51ff08699f1c06ece9</td>
+                <td>false</td>
+              </tr>
+            
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+:ET

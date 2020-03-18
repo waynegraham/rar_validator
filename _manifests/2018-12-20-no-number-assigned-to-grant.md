@@ -1,0 +1,2989 @@
+---
+layout: reports
+title: "Debating the Vietnam War: Film and Audio Recordings from the
+1960s and 1970s
+"
+grant_number: no number assigned to grant
+institution: Swarthmore College Peace Collection
+contact: Wendy E. Chmielewski
+email: wchmiel1@swarthmore.edu
+submission: 2018-12-20
+json: js/data/2018-12-20-no-number-assigned-to-grant.json
+total_assets: 268
+available_assets: 25
+available_percentage: 9.328358208955224
+unavailable_percentage: 
+---
+
+<div class="row">
+  <div class="col-xl-8 col-lg-12 col-md-12 col-12">
+    <div class="card">
+      <h5 class="card-header">Check Details</h5>
+      <div class="card-body">
+        <table class="table table-striped">
+          <thead>
+            <tr>
+              <th scope="col">Status</th>
+              <th scope="col">Status Code</th>
+              <th scope="col">Filename</th>
+              <th scope="col">URL</th>
+              <th scope="col">Checksum</th>
+              <th scope="col">Restricted</th>
+            </tr>
+          </thead>
+          <tbody>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902808.us.archive.org/23/items/AudiotapeReel018801/audiotape%20reel%200188_01.mp3">tribute-to-a-j-muste-part-1-audiotapereel0188_01</a></td>
+                <!-- <td>
+                  https://ia902808.us.archive.org/23/items/AudiotapeReel018801/audiotape%20reel%200188_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802905.us.archive.org/18/items/AudiotapeReel0060a01/audiotape%20reel%200060a/Preservation%20Master/audiotape%20reel%200060a_01.mp3">women-strike-for-peace-audiotapereel0060a_01</a></td>
+                <!-- <td>
+                  https://ia802905.us.archive.org/18/items/AudiotapeReel0060a01/audiotape%20reel%200060a/Preservation%20Master/audiotape%20reel%200060a_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902905.us.archive.org/18/items/AudiotapeReel0060a01/audiotape%20reel%200060a/Preservation%20Master/audiotape%20reel%200060a_01.mp4">women-strike-for-peace-march-on-washington-sound-track-audiotape-reel-0060a_01</a></td>
+                <!-- <td>
+                  https://ia902905.us.archive.org/18/items/AudiotapeReel0060a01/audiotape%20reel%200060a/Preservation%20Master/audiotape%20reel%200060a_01.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802801.us.archive.org/28/items/AudiotapeReel018802/audiotape%20reel%200188_02.mp3">tribute-to-a-j-muste-part-2-a-j-muste-s-first-1935-and-last-feb-9-1967-known-recordings-audiotape-reel-0188_02</a></td>
+                <!-- <td>
+                  https://ia802801.us.archive.org/28/items/AudiotapeReel018802/audiotape%20reel%200188_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/7/items/AudiotapeReel087202/audiotape%20reel%200872_01.mp3">us-war-crimes-in-vietnam-audiotape-reel-0872_01</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/7/items/AudiotapeReel087202/audiotape%20reel%200872_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/7/items/AudiotapeReel087202/audiotape%20reel%200872_02.mp3">us-war-crimes-in-vietnam-audiotape-reel-0872_02</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/7/items/AudiotapeReel087202/audiotape%20reel%200872_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.1_01.mp3">boston-draft-resistance-group-interviews-audiotapereel0065-1_01</a></td>
+                <!-- <td>
+                  https://ia902902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.1_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.1_02.mp3">boston-draft-resistance-group-interviews-udiotapereel0065-1_02</a></td>
+                <!-- <td>
+                  https://ia802902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.1_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.2_01.mp3">boston-draft-resistance-group-interviews-audiotapereel0065-2_01</a></td>
+                <!-- <td>
+                  https://ia802902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.2_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.2_02.mp3">boston-draft-resistance-group-interviews-audiotapereel0065-2_02</a></td>
+                <!-- <td>
+                  https://ia802902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.2_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.3_01.mp3">boston-draft-resistance-group-interviews-audiotapereel0065-3_01</a></td>
+                <!-- <td>
+                  https://ia902902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.3_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.4_01.mp3">boston-draft-resistance-group-interviews-audiotapereel0065-4_01</a></td>
+                <!-- <td>
+                  https://ia802902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.4_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.4_02.mp3">boston-draft-resistance-group-interviews-audiotapereel0065-4_02</a></td>
+                <!-- <td>
+                  https://ia802902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.4_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.5_01.mp3">boston-draft-resistance-group-interviews-audiotapereel0065-5_01</a></td>
+                <!-- <td>
+                  https://ia902902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.5_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.5_02.mp3">boston-draft-resistance-group-interviews-audiotapereel0065-5_02</a></td>
+                <!-- <td>
+                  https://ia802902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.5_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.6_01.mp3">boston-draft-resistance-group-interviews-audiotapereel0065-6_01</a></td>
+                <!-- <td>
+                  https://ia802902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.6_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.7_01.mp3">boston-draft-resistance-group-interviews-audiotapereel0065-7_01</a></td>
+                <!-- <td>
+                  https://ia802902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.7_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.7_02.mp3">boston-draft-resistance-group-interviews-audiotapereel0065-7_02</a></td>
+                <!-- <td>
+                  https://ia802902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.7_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.8_01.mp3">boston-draft-resistance-group-interviews-audiotapereel0065-8_01</a></td>
+                <!-- <td>
+                  https://ia802902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.8_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.8_02.mp3">boston-draft-resistance-group-interviews-audiotapereel0065-8_02</a></td>
+                <!-- <td>
+                  https://ia802902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.8_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.9_01.mp3">boston-draft-resistance-group-interviews-audiotapereel0065-9_01</a></td>
+                <!-- <td>
+                  https://ia902902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.9_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.9_02.mp3">boston-draft-resistance-group-interviews-audiotapereel0065-9_02</a></td>
+                <!-- <td>
+                  https://ia902902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReel0065.9_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReels0065.10_01.mp3">boston-draft-resistance-group-interviews-audiotapereels0065-10_01</a></td>
+                <!-- <td>
+                  https://ia802902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReels0065.10_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReels0065.10_02.mp3">boston-draft-resistance-group-interviews-audiotapereels0065-10_02</a></td>
+                <!-- <td>
+                  https://ia802902.us.archive.org/1/items/AudiotapeReel0065.101/AudiotapeReels0065.10_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902904.us.archive.org/8/items/AudiotapeReel092501/audiotape%20reel%200925_01.mp3">cora-weiss-comments-vietnam-journal-audiotape-reel-0925_01</a></td>
+                <!-- <td>
+                  https://ia902904.us.archive.org/8/items/AudiotapeReel092501/audiotape%20reel%200925_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802906.us.archive.org/27/items/AudiotapeReel093701/audiotape%20reel%200937_01.mp3">voice-of-vietnam-program-1-audiotape-reel-0937_01</a></td>
+                <!-- <td>
+                  https://ia802906.us.archive.org/27/items/AudiotapeReel093701/audiotape%20reel%200937_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802902.us.archive.org/5/items/AudiotapeReel093801/audiotape%20reel%200938_01.mp3">voice-of-vietnam-program-2-audiotape-reel-0938_01</a></td>
+                <!-- <td>
+                  https://ia802902.us.archive.org/5/items/AudiotapeReel093801/audiotape%20reel%200938_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902906.us.archive.org/4/items/AudiotapeReel001701/audiotape%20reel%200017_01.mp3">vietnamization-knx-editorial-rebuttal-audiotape-reel-0017_01</a></td>
+                <!-- <td>
+                  https://ia902906.us.archive.org/4/items/AudiotapeReel001701/audiotape%20reel%200017_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802904.us.archive.org/10/items/AudiotapeReel083701/audiotape%20reel%200837_01.mp3">public-service-messages-on-opposition-to-the-vietnam-war-audiotape-reel-0837_01</a></td>
+                <!-- <td>
+                  https://ia802904.us.archive.org/10/items/AudiotapeReel083701/audiotape%20reel%200837_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-success">Success</span></td>
+                <td>200</td>
+                <td><a href="https://ia801601.us.archive.org/6/items/AudiotapeReel001301/audiotape%20reel%200013_01.mp3">saigon-s-civilian-political-prisoners-audiotape-reel-0013_01</a></td>
+                <!-- <td>
+                  https://ia801601.us.archive.org/6/items/AudiotapeReel001301/audiotape%20reel%200013_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802907.us.archive.org/6/items/AudiotapeReel087902/audiotape%20reel%200879_01.mp3">a-j-muste-memorial-service-three-hour-tribute-audiotape-reel-0879_01</a></td>
+                <!-- <td>
+                  https://ia802907.us.archive.org/6/items/AudiotapeReel087902/audiotape%20reel%200879_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802907.us.archive.org/6/items/AudiotapeReel087902/audiotape%20reel%200879_02.mp3">a-j-muste-memorial-service-three-hour-tribute-audiotape-reel-0879_02</a></td>
+                <!-- <td>
+                  https://ia802907.us.archive.org/6/items/AudiotapeReel087902/audiotape%20reel%200879_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902902.us.archive.org/13/items/AudiotapeReel029302/audiotape%20reel%200293_01.mp3">washington-mobilization-of-clergy-and-laymen-concerned-about-vietnam-audiotapereel-0293-01</a></td>
+                <!-- <td>
+                  https://ia902902.us.archive.org/13/items/AudiotapeReel029302/audiotape%20reel%200293_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902902.us.archive.org/13/items/AudiotapeReel029302/audiotape%20reel%200293_02.mp3">washington-mobilization-of-clergy-and-laymen-concerned-about-vietnam-audiotapereel-0293-02</a></td>
+                <!-- <td>
+                  https://ia902902.us.archive.org/13/items/AudiotapeReel029302/audiotape%20reel%200293_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902901.us.archive.org/3/items/AudiotapeReel086401/audiotape%20reel%200864_01.mp3">fair-lawn-committee-for-peace-in-vietnam-fair-lawn-nj-part-4-audiotape-reel-0864_01</a></td>
+                <!-- <td>
+                  https://ia902901.us.archive.org/3/items/AudiotapeReel086401/audiotape%20reel%200864_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802805.us.archive.org/4/items/AudiotapeReel086501/audiotape%20reel%200865_01.mp3">fair-lawn-committee-for-peace-in-vietnam-fair-lawn-nj-part-5-audiotape-reel-0865_01</a></td>
+                <!-- <td>
+                  https://ia802805.us.archive.org/4/items/AudiotapeReel086501/audiotape%20reel%200865_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802904.us.archive.org/31/items/AudiotapeReel029501/audiotape%20reel%200295_01.mp3">liturgy-for-peace-audiotape-reel-0295_01</a></td>
+                <!-- <td>
+                  https://ia802904.us.archive.org/31/items/AudiotapeReel029501/audiotape%20reel%200295_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/6/items/AudiotapeReel080501a/audiotape%20reel%200805_01a.mp3">meeting-and-television-broadcasts-on-vietnam-war-era-topics-audiotapereel080501a</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/6/items/AudiotapeReel080501a/audiotape%20reel%200805_01a.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902900.us.archive.org/6/items/AudiotapeReel080501a/audiotape%20reel%200805_01b.mp3">meeting-and-television-broadcasts-on-vietnam-war-era-topics-audiotapereel080501b</a></td>
+                <!-- <td>
+                  https://ia902900.us.archive.org/6/items/AudiotapeReel080501a/audiotape%20reel%200805_01b.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/6/items/AudiotapeReel080501a/audiotape%20reel%200805_01c.mp3">meeting-and-television-broadcasts-on-vietnam-war-era-topics-audiotapereel080501c</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/6/items/AudiotapeReel080501a/audiotape%20reel%200805_01c.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/6/items/AudiotapeReel080501a/audiotape%20reel%200805_02a.mp3">meeting-and-television-broadcasts-on-vietnam-war-era-topics-audiotapereel080502a</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/6/items/AudiotapeReel080501a/audiotape%20reel%200805_02a.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/6/items/AudiotapeReel080501a/audiotape%20reel%200805_02b.mp3">meeting-and-television-broadcasts-on-vietnam-war-era-topics-audiotapereel080502b</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/6/items/AudiotapeReel080501a/audiotape%20reel%200805_02b.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/6/items/AudiotapeReel080501a/audiotape%20reel%200805_02c.mp3">meeting-and-television-broadcasts-on-vietnam-war-era-topics-audiotapereel080502c</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/6/items/AudiotapeReel080501a/audiotape%20reel%200805_02c.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/6/items/AudiotapeReel080501a/audiotape%20reel%200805_02d.mp3">meeting-and-television-broadcasts-on-vietnam-war-era-topics-audiotapereel080502d</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/6/items/AudiotapeReel080501a/audiotape%20reel%200805_02d.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902900.us.archive.org/6/items/AudiotapeReel080501a/audiotape%20reel%200805_03a.mp3">meeting-and-television-broadcasts-on-vietnam-war-era-topics-audiotapereel080503a</a></td>
+                <!-- <td>
+                  https://ia902900.us.archive.org/6/items/AudiotapeReel080501a/audiotape%20reel%200805_03a.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/6/items/AudiotapeReel080501a/audiotape%20reel%200805_03b.mp3">meeting-and-television-broadcasts-on-vietnam-war-era-topics-audiotapereel080503b</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/6/items/AudiotapeReel080501a/audiotape%20reel%200805_03b.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-success">Success</span></td>
+                <td>200</td>
+                <td><a href="https://ia802907.us.archive.org/9/items/AudiotapeReel081801/audiotape%20reel%200818_01.mp3">china-vietnam-and-the-us-part-1-audiotape-reel-0818_01</a></td>
+                <!-- <td>
+                  https://ia802907.us.archive.org/9/items/AudiotapeReel081801/audiotape%20reel%200818_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802906.us.archive.org/24/items/AudiotapeReel081901/audiotape%20reel%200819_01.mp3">china-vietnam-and-the-us-part-2-audiotape-reel-0819_01</a></td>
+                <!-- <td>
+                  https://ia802906.us.archive.org/24/items/AudiotapeReel081901/audiotape%20reel%200819_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902901.us.archive.org/22/items/AudiotapeReel088201/audiotape%20reel%200882_01.mp3">dellinger-pickus-dialogue-audiotapereel0882-01</a></td>
+                <!-- <td>
+                  https://ia902901.us.archive.org/22/items/AudiotapeReel088201/audiotape%20reel%200882_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902901.us.archive.org/22/items/AudiotapeReel088201/audiotape%20reel%200882_02.mp3">dellinger-pickus-dialogue-audiotapereel0882-02</a></td>
+                <!-- <td>
+                  https://ia902901.us.archive.org/22/items/AudiotapeReel088201/audiotape%20reel%200882_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802908.us.archive.org/13/items/AudiotapeReel003901/audiotape%20reel%200039/Preservation%20Master/audiotape%20reel%200039_01.mp3">veteran-of-vietnam-war-talking-to-jerry-williams-audiotape-reel-0039_01</a></td>
+                <!-- <td>
+                  https://ia802908.us.archive.org/13/items/AudiotapeReel003901/audiotape%20reel%200039/Preservation%20Master/audiotape%20reel%200039_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802901.us.archive.org/31/items/AudiotapeReel082001/audiotape%20reel%200820_01.mp3">china-vietnam-and-the-us-part-3-audiotape-reel-0820_01</a></td>
+                <!-- <td>
+                  https://ia802901.us.archive.org/31/items/AudiotapeReel082001/audiotape%20reel%200820_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902903.us.archive.org/11/items/AudiotapeReel0652.102/audiotape%20reel%200652.1_01.mp3">sane-vietnam-war-protest-rally-part-1-audiotapereel0652-1_01</a></td>
+                <!-- <td>
+                  https://ia902903.us.archive.org/11/items/AudiotapeReel0652.102/audiotape%20reel%200652.1_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802903.us.archive.org/11/items/AudiotapeReel0652.102/audiotape%20reel%200652.1_02.mp3">sane-vietnam-war-protest-rally-part-1-audiotapereel0652-1_02</a></td>
+                <!-- <td>
+                  https://ia802903.us.archive.org/11/items/AudiotapeReel0652.102/audiotape%20reel%200652.1_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/32/items/AudiotapeReel0016.301/audiotape%20reel%200016.1_01.mp3">another-mother-for-peace-radio-spots-audiotapereel0016-1-01</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/32/items/AudiotapeReel0016.301/audiotape%20reel%200016.1_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902900.us.archive.org/32/items/AudiotapeReel0016.301/audiotape%20reel%200016.2_01.mp3">another-mother-for-peace-radio-spots-audiotapereel0016-2-01</a></td>
+                <!-- <td>
+                  https://ia902900.us.archive.org/32/items/AudiotapeReel0016.301/audiotape%20reel%200016.2_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/32/items/AudiotapeReel0016.301/audiotape%20reel%200016.3_01.mp3">another-mother-for-peace-radio-spots-audiotapereel0016-3-01</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/32/items/AudiotapeReel0016.301/audiotape%20reel%200016.3_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802805.us.archive.org/17/items/AudiotapeReel029201/audiotape%20reel%200292_01.mp3">clergy-concern-on-vietnam-session-2-part-3-audiotape-reel-0292_01</a></td>
+                <!-- <td>
+                  https://ia802805.us.archive.org/17/items/AudiotapeReel029201/audiotape%20reel%200292_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-success">Success</span></td>
+                <td>200</td>
+                <td><a href="https://ia801604.us.archive.org/22/items/AudiotapeReel088301/audiotape%20reel%200883_01.mp3">report-from-hanoi-by-dave-dellinger-community-church-new-york-audiotapereel0883-01</a></td>
+                <!-- <td>
+                  https://ia801604.us.archive.org/22/items/AudiotapeReel088301/audiotape%20reel%200883_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-success">Success</span></td>
+                <td>200</td>
+                <td><a href="https://ia601604.us.archive.org/22/items/AudiotapeReel088301/audiotape%20reel%200883_02.mp3">report-from-hanoi-by-dave-dellinger-community-church-new-york-audiotapereel0883-01</a></td>
+                <!-- <td>
+                  https://ia601604.us.archive.org/22/items/AudiotapeReel088301/audiotape%20reel%200883_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902805.us.archive.org/35/items/AudiotapeReel086302/audiotape%20reel%200863_01.mp3">fair-lawn-committee-for-peace-in-vietnam-fair-lawn-nj-part-3-audiotapereel0863-02</a></td>
+                <!-- <td>
+                  https://ia902805.us.archive.org/35/items/AudiotapeReel086302/audiotape%20reel%200863_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902805.us.archive.org/35/items/AudiotapeReel086302/audiotape%20reel%200863_02.mp3">fair-lawn-committee-for-peace-in-vietnam-fair-lawn-nj-part-3-audiotapereel0863-02</a></td>
+                <!-- <td>
+                  https://ia902805.us.archive.org/35/items/AudiotapeReel086302/audiotape%20reel%200863_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902909.us.archive.org/32/items/AudiotapeReel086201/audiotape%20reel%200862_01.mp3">fair-lawn-committee-for-peace-in-vietnam-fair-lawn-nj-part-2-audiotape-reel-0862_01</a></td>
+                <!-- <td>
+                  https://ia902909.us.archive.org/32/items/AudiotapeReel086201/audiotape%20reel%200862_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902909.us.archive.org/32/items/AudiotapeReel086201/audiotape%20reel%200862_02.mp3">fair-lawn-committee-for-peace-in-vietnam-fair-lawn-nj-part-2-audiotape-reel-0862_02</a></td>
+                <!-- <td>
+                  https://ia902909.us.archive.org/32/items/AudiotapeReel086201/audiotape%20reel%200862_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802904.us.archive.org/12/items/AudiotapeReel086102/audiotape%20reel%200861_01.mp3">fair-lawn-committee-for-peace-in-vietnam-fair-lawn-nj-part-1-audiotape-reel-0861_01</a></td>
+                <!-- <td>
+                  https://ia802904.us.archive.org/12/items/AudiotapeReel086102/audiotape%20reel%200861_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902904.us.archive.org/12/items/AudiotapeReel086102/audiotape%20reel%200861_02.mp3">fair-lawn-committee-for-peace-in-vietnam-fair-lawn-nj-part-1-audiotape-reel-0861_02</a></td>
+                <!-- <td>
+                  https://ia902904.us.archive.org/12/items/AudiotapeReel086102/audiotape%20reel%200861_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802908.us.archive.org/7/items/AudiotapeReel070101/audiotape%20reel%200701_01.mp3">vietnam-beyond-audiotape-reel-0701_01</a></td>
+                <!-- <td>
+                  https://ia802908.us.archive.org/7/items/AudiotapeReel070101/audiotape%20reel%200701_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802904.us.archive.org/7/items/AudiotapeReel081601/audiotape%20reel%200816_01.mp3">women-their-quiet-revolution-audiotape-reel-0816_01</a></td>
+                <!-- <td>
+                  https://ia802904.us.archive.org/7/items/AudiotapeReel081601/audiotape%20reel%200816_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802805.us.archive.org/31/items/AudiotapeReel080601/audiotape%20reel%200806_01.mp3">reports-on-interviews-on-vietnam-minority-rights-in-defense-contracts-audiotape-reel-0806_01</a></td>
+                <!-- <td>
+                  https://ia802805.us.archive.org/31/items/AudiotapeReel080601/audiotape%20reel%200806_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/27/items/AudiotapeReel0650.101/audiotape%20reel%200650.1_01.mp3">sane-vietnam-war-protest-rally-part-1-audiotape-reel-0650-1_01</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/27/items/AudiotapeReel0650.101/audiotape%20reel%200650.1_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902900.us.archive.org/27/items/AudiotapeReel0650.101/audiotape%20reel%200650.1_02.mp3">sane-vietnam-war-protest-rally-part-1-audiotape-reel-0650-1_02</a></td>
+                <!-- <td>
+                  https://ia902900.us.archive.org/27/items/AudiotapeReel0650.101/audiotape%20reel%200650.1_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802903.us.archive.org/22/items/AudiotapeReel080401/audiotape%20reel%200804_01.mp3">american-friends-service-committee-afsc-washington-visitation-audiotape-reel-0804_01</a></td>
+                <!-- <td>
+                  https://ia802903.us.archive.org/22/items/AudiotapeReel080401/audiotape%20reel%200804_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802903.us.archive.org/22/items/AudiotapeReel080401/audiotape%20reel%200804_02.mp3">american-friends-service-committee-afsc-washington-visitation-audiotape-reel-0804_02</a></td>
+                <!-- <td>
+                  https://ia802903.us.archive.org/22/items/AudiotapeReel080401/audiotape%20reel%200804_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902907.us.archive.org/29/items/AudiotapeReel003801/audiotape%20reel%200038/Preservation%20Master/audiotape%20reel%200038_01.mp3">vietnam-veteran-with-taylor-grant-introduction-audiotape-reel-0038_01</a></td>
+                <!-- <td>
+                  https://ia902907.us.archive.org/29/items/AudiotapeReel003801/audiotape%20reel%200038/Preservation%20Master/audiotape%20reel%200038_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-success">Success</span></td>
+                <td>200</td>
+                <td><a href="https://ia902901.us.archive.org/1/items/AudiotapeReel002301/audiotape%20reel%200023/Preservation%20Master/audiotape%20reel%200023_01.mp3">interviews-and-singing-with-two-viet-children-by-committee-of-responsibility-cor-audiotape-reel-0023_01</a></td>
+                <!-- <td>
+                  https://ia902901.us.archive.org/1/items/AudiotapeReel002301/audiotape%20reel%200023/Preservation%20Master/audiotape%20reel%200023_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902909.us.archive.org/15/items/AudiotapeReel0650.202/audiotape%20reel%200650.2_01.mp3">sane-vietnam-war-protest-rally-part-2-audiotape-reel-0650-2_01</a></td>
+                <!-- <td>
+                  https://ia902909.us.archive.org/15/items/AudiotapeReel0650.202/audiotape%20reel%200650.2_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902909.us.archive.org/15/items/AudiotapeReel0650.202/audiotape%20reel%200650.2_02.mp3">sane-vietnam-war-protest-rally-part-2-audiotape-reel-0650-2_02</a></td>
+                <!-- <td>
+                  https://ia902909.us.archive.org/15/items/AudiotapeReel0650.202/audiotape%20reel%200650.2_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802903.us.archive.org/1/items/AudiotapeReel0652.501/audiotape%20reel%200652.5_01.mp3">sane-vietnam-war-protest-rally-part-5-audiotape-reel-0652-5_01</a></td>
+                <!-- <td>
+                  https://ia802903.us.archive.org/1/items/AudiotapeReel0652.501/audiotape%20reel%200652.5_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802903.us.archive.org/22/items/AudiotapeReel067401/audiotape%20reel%200674_01.mp3">vietnam-beyond-audiotape-reel-0674_01</a></td>
+                <!-- <td>
+                  https://ia802903.us.archive.org/22/items/AudiotapeReel067401/audiotape%20reel%200674_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802902.us.archive.org/18/items/AudiotapeReel024702/audiotape%20reel%200247_01.mp3">interviews-about-resistance-with-david-mitchell-paul-lauter-and-florence-howe-audiotape-reel-0247_01</a></td>
+                <!-- <td>
+                  https://ia802902.us.archive.org/18/items/AudiotapeReel024702/audiotape%20reel%200247_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802902.us.archive.org/18/items/AudiotapeReel024702/audiotape%20reel%200247_02.mp3">interviews-about-resistance-with-david-mitchell-paul-lauter-and-florence-howe-audiotape-reel-0247_02</a></td>
+                <!-- <td>
+                  https://ia802902.us.archive.org/18/items/AudiotapeReel024702/audiotape%20reel%200247_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-success">Success</span></td>
+                <td>200</td>
+                <td><a href="https://ia902905.us.archive.org/0/items/AudiotapeReel073301/audiotape%20reel%200733_01.mp3">war-resisters-league-annual-peace-award-ceremony-audiotape-reel-0733_01</a></td>
+                <!-- <td>
+                  https://ia902905.us.archive.org/0/items/AudiotapeReel073301/audiotape%20reel%200733_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-success">Success</span></td>
+                <td>200</td>
+                <td><a href="https://ia802905.us.archive.org/0/items/AudiotapeReel073301/audiotape%20reel%200733_02.mp3">war-resisters-league-annual-peace-award-ceremony-audiotape-reel-0733_02</a></td>
+                <!-- <td>
+                  https://ia802905.us.archive.org/0/items/AudiotapeReel073301/audiotape%20reel%200733_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802903.us.archive.org/16/items/AudiotapeReel069001/audiotape%20reel%200690_01.mp3">benjamin-spock-and-robert-mcafee-brown-on-opposition-to-the-vietnam-war-audiotape-reel-0690_01</a></td>
+                <!-- <td>
+                  https://ia802903.us.archive.org/16/items/AudiotapeReel069001/audiotape%20reel%200690_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802909.us.archive.org/14/items/AudiotapeReel003701/audiotape%20reel%200037_01.mp3">breakfast-with-dr-daniel-ellsberg-audiotape-reel-0037_01</a></td>
+                <!-- <td>
+                  https://ia802909.us.archive.org/14/items/AudiotapeReel003701/audiotape%20reel%200037_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802903.us.archive.org/16/items/AudiotapeReel021401a/audiotape%20reel%200214_01a.mp3">brother-greg-a-nite-at-santa-rita-massacre-at-my-lai-audiotapereel0214-01a</a></td>
+                <!-- <td>
+                  https://ia802903.us.archive.org/16/items/AudiotapeReel021401a/audiotape%20reel%200214_01a.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802903.us.archive.org/16/items/AudiotapeReel021401a/audiotape%20reel%200214_01b.mp3">brother-greg-a-nite-at-santa-rita-massacre-at-my-lai-audiotapereel0214-01b</a></td>
+                <!-- <td>
+                  https://ia802903.us.archive.org/16/items/AudiotapeReel021401a/audiotape%20reel%200214_01b.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802902.us.archive.org/17/items/AudiotapeReel035101/audiotape%20reel%200351_01.mp3">business-executives-move-for-vietnam-peace-bem-first-national-meeting-part-1-audiotape-reel-0351_01</a></td>
+                <!-- <td>
+                  https://ia802902.us.archive.org/17/items/AudiotapeReel035101/audiotape%20reel%200351_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902902.us.archive.org/17/items/AudiotapeReel035101/audiotape%20reel%200351_02.mp3">business-executives-move-for-vietnam-peace-bem-first-national-meeting-part-1-audiotape-reel-0351_02</a></td>
+                <!-- <td>
+                  https://ia902902.us.archive.org/17/items/AudiotapeReel035101/audiotape%20reel%200351_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802905.us.archive.org/22/items/AudiotapeReel036601/audiotape%20reel%200366_01.mp3">business-executives-move-for-vietnam-peace-bem-meeting-washington-d-c-audiotape-reel-0366_01</a></td>
+                <!-- <td>
+                  https://ia802905.us.archive.org/22/items/AudiotapeReel036601/audiotape%20reel%200366_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902905.us.archive.org/22/items/AudiotapeReel036601/audiotape%20reel%200366_02.mp3">business-executives-move-for-vietnam-peace-bem-meeting-washington-d-c-audiotape-reel-0366_02</a></td>
+                <!-- <td>
+                  https://ia902905.us.archive.org/22/items/AudiotapeReel036601/audiotape%20reel%200366_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/9/items/AudiotapeReel036702/audiotape%20reel%200367_01.mp3">business-executives-move-for-vietnam-peace-bem-second-national-meeting-part-1-audiotape-reel-0367_01</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/9/items/AudiotapeReel036702/audiotape%20reel%200367_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/9/items/AudiotapeReel036702/audiotape%20reel%200367_02.mp3">business-executives-move-for-vietnam-peace-bem-second-national-meeting-part-1-audiotape-reel-0367_02</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/9/items/AudiotapeReel036702/audiotape%20reel%200367_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-success">Success</span></td>
+                <td>200</td>
+                <td><a href="https://ia802909.us.archive.org/7/items/AudiotapeReel036801/audiotape%20reel%200368_01.mp3">business-executives-move-for-vietnam-peace-bem-second-national-meeting-part-2-audiotape-reel-0368_01</a></td>
+                <!-- <td>
+                  https://ia802909.us.archive.org/7/items/AudiotapeReel036801/audiotape%20reel%200368_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-success">Success</span></td>
+                <td>200</td>
+                <td><a href="https://ia902909.us.archive.org/7/items/AudiotapeReel036801/audiotape%20reel%200368_02.mp3">business-executives-move-for-vietnam-peace-bem-second-national-meeting-part-2-audiotape-reel-0368_02</a></td>
+                <!-- <td>
+                  https://ia902909.us.archive.org/7/items/AudiotapeReel036801/audiotape%20reel%200368_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902908.us.archive.org/10/items/AudiotapeReel036901/audiotape%20reel%200369_01.mp3">business-executives-move-for-vietnam-peace-bem-second-national-meeting-part-3-audiotape-reel-0369_01</a></td>
+                <!-- <td>
+                  https://ia902908.us.archive.org/10/items/AudiotapeReel036901/audiotape%20reel%200369_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802908.us.archive.org/10/items/AudiotapeReel036901/audiotape%20reel%200369_02.mp3">business-executives-move-for-vietnam-peace-bem-second-national-meeting-part-3-audiotape-reel-0369_02</a></td>
+                <!-- <td>
+                  https://ia802908.us.archive.org/10/items/AudiotapeReel036901/audiotape%20reel%200369_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/16/items/AudiotapeReel037001/audiotape%20reel%200370_01.mp3">business-executives-move-for-vietnam-peace-bem-second-national-meeting-part-4-audiotape-reel-0370_01</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/16/items/AudiotapeReel037001/audiotape%20reel%200370_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/16/items/AudiotapeReel037001/audiotape%20reel%200370_02.mp3">business-executives-move-for-vietnam-peace-bem-second-national-meeting-part-4-audiotape-reel-0370_02</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/16/items/AudiotapeReel037001/audiotape%20reel%200370_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902900.us.archive.org/26/items/AudiotapeReel035202/audiotape%20reel%200352_01.mp3">business-executives-move-for-vietnam-peace-bem-first-national-meeting-part-2-audiotape-reel-0352_01</a></td>
+                <!-- <td>
+                  https://ia902900.us.archive.org/26/items/AudiotapeReel035202/audiotape%20reel%200352_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/26/items/AudiotapeReel035202/audiotape%20reel%200352_02.mp3">business-executives-move-for-vietnam-peace-bem-first-national-meeting-part-2-audiotape-reel-0352_02</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/26/items/AudiotapeReel035202/audiotape%20reel%200352_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802805.us.archive.org/3/items/AudiotapeReel035301/audiotape%20reel%200353_01.mp3">business-executives-move-for-vietnam-peace-bem-first-national-meeting-part-3-audiotape-reel-0353_01</a></td>
+                <!-- <td>
+                  https://ia802805.us.archive.org/3/items/AudiotapeReel035301/audiotape%20reel%200353_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802805.us.archive.org/3/items/AudiotapeReel035301/audiotape%20reel%200353_02.mp3">business-executives-move-for-vietnam-peace-bem-first-national-meeting-part-3-audiotape-reel-0353_02</a></td>
+                <!-- <td>
+                  https://ia802805.us.archive.org/3/items/AudiotapeReel035301/audiotape%20reel%200353_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802903.us.archive.org/31/items/AudiotapeReel035401/audiotape%20reel%200354_01.mp3">business-executives-move-for-vietnam-peace-bem-first-national-meeting-part-4-audiotape-reel-0354_01</a></td>
+                <!-- <td>
+                  https://ia802903.us.archive.org/31/items/AudiotapeReel035401/audiotape%20reel%200354_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802908.us.archive.org/14/items/AudiotapeReel035501/audiotape%20reel%200355_01.mp3">business-executives-move-for-vietnam-peace-bem-first-national-meeting-part-5-audiotape-reel-0355_01</a></td>
+                <!-- <td>
+                  https://ia802908.us.archive.org/14/items/AudiotapeReel035501/audiotape%20reel%200355_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902900.us.archive.org/9/items/AudiotapeReel035602/audiotape%20reel%200356_01.mp3">business-executives-move-for-vietnam-peace-bem-first-national-meeting-part-6-audiotape-reel-0356_01</a></td>
+                <!-- <td>
+                  https://ia902900.us.archive.org/9/items/AudiotapeReel035602/audiotape%20reel%200356_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/9/items/AudiotapeReel035602/audiotape%20reel%200356_02.mp3">business-executives-move-for-vietnam-peace-bem-first-national-meeting-part-6-audiotape-reel-0356_02</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/9/items/AudiotapeReel035602/audiotape%20reel%200356_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802805.us.archive.org/2/items/AudiotapeReel035701/audiotape%20reel%200357_01.mp3">business-executives-move-for-vietnam-peace-bem-first-national-meeting-part-7-audiotape-reel-0357_01</a></td>
+                <!-- <td>
+                  https://ia802805.us.archive.org/2/items/AudiotapeReel035701/audiotape%20reel%200357_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902805.us.archive.org/2/items/AudiotapeReel035701/audiotape%20reel%200357_02.mp3">business-executives-move-for-vietnam-peace-bem-first-national-meeting-part-7-audiotape-reel-0357_02</a></td>
+                <!-- <td>
+                  https://ia902805.us.archive.org/2/items/AudiotapeReel035701/audiotape%20reel%200357_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802905.us.archive.org/26/items/AudiotapeReel035901/audiotape%20reel%200359_01.mp3">business-executives-move-for-vietnam-peace-meeting-part-2-audiotape-reel-0359_01</a></td>
+                <!-- <td>
+                  https://ia802905.us.archive.org/26/items/AudiotapeReel035901/audiotape%20reel%200359_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902905.us.archive.org/26/items/AudiotapeReel035901/audiotape%20reel%200359_02.mp3">business-executives-move-for-vietnam-peace-meeting-part-2-audiotape-reel-0359_02</a></td>
+                <!-- <td>
+                  https://ia902905.us.archive.org/26/items/AudiotapeReel035901/audiotape%20reel%200359_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-success">Success</span></td>
+                <td>200</td>
+                <td><a href="https://ia601601.us.archive.org/30/items/AudiotapeReel036001/audiotape%20reel%200360_01.mp3">business-executives-move-for-vietnam-peace-meeting-part-3-audiotape-0360_01</a></td>
+                <!-- <td>
+                  https://ia601601.us.archive.org/30/items/AudiotapeReel036001/audiotape%20reel%200360_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902906.us.archive.org/12/items/AudiotapeReel036101/audiotape%20reel%200361_01.mp3">business-executives-move-for-vietnam-peace-meeting-part-4-audiotape-reel-0361_01</a></td>
+                <!-- <td>
+                  https://ia902906.us.archive.org/12/items/AudiotapeReel036101/audiotape%20reel%200361_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802903.us.archive.org/21/items/AudiotapeReel028901/audiotape%20reel%200289_01.mp3">clergy-concern-on-vietnam-session-1-audiotape-reel-0289_01</a></td>
+                <!-- <td>
+                  https://ia802903.us.archive.org/21/items/AudiotapeReel028901/audiotape%20reel%200289_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902903.us.archive.org/21/items/AudiotapeReel028901/audiotape%20reel%200289_02.mp3">clergy-concern-on-vietnam-session-1-audiotape-reel-0289_02</a></td>
+                <!-- <td>
+                  https://ia902903.us.archive.org/21/items/AudiotapeReel028901/audiotape%20reel%200289_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/33/items/AudiotapeReel029001/audiotape%20reel%200290_01.mp3">clergy-concern-on-vietnam-session-2-audiotape-reel-0290_01</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/33/items/AudiotapeReel029001/audiotape%20reel%200290_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902903.us.archive.org/32/items/AudiotapeReel029101/audiotape%20reel%200291_01.mp3">clergy-concern-on-vietnam-session-2-part-2-audiotape-reel-0291_01</a></td>
+                <!-- <td>
+                  https://ia902903.us.archive.org/32/items/AudiotapeReel029101/audiotape%20reel%200291_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802805.us.archive.org/0/items/AudiotapeReel042101/audiotape%20reel%200421_01.mp3">conscience-vs-the-state-daniel-ellsberg-address-to-yearly-meeting-of-society-of-friends-audiotape-reel-0421_01</a></td>
+                <!-- <td>
+                  https://ia802805.us.archive.org/0/items/AudiotapeReel042101/audiotape%20reel%200421_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802907.us.archive.org/6/items/AudiotapeReel021101/audiotape%20reel%200211_01.mp3">daniel-berrigan-talks-about-his-experiences-in-the-peace-movement-audiotape-reel-0211_01</a></td>
+                <!-- <td>
+                  https://ia802907.us.archive.org/6/items/AudiotapeReel021101/audiotape%20reel%200211_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802907.us.archive.org/6/items/AudiotapeReel021101/audiotape%20reel%200211_02.mp3">daniel-berrigan-talks-about-his-experiences-in-the-peace-movement-audiotape-reel-0211_02</a></td>
+                <!-- <td>
+                  https://ia802907.us.archive.org/6/items/AudiotapeReel021101/audiotape%20reel%200211_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802903.us.archive.org/17/items/AudiotapeReel021001/audiotape%20reel%200210_01.mp3">draft-resistance-audiotape-reel-0210_01</a></td>
+                <!-- <td>
+                  https://ia802903.us.archive.org/17/items/AudiotapeReel021001/audiotape%20reel%200210_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902903.us.archive.org/22/items/AudiotapeReel028701/audiotape%20reel%200287_01.mp3">in-the-name-of-america-part-1-audiotape-reel-0287_01</a></td>
+                <!-- <td>
+                  https://ia902903.us.archive.org/22/items/AudiotapeReel028701/audiotape%20reel%200287_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902902.us.archive.org/16/items/AudiotapeReel028801/audiotape%20reel%200288_01.mp3">in-the-name-of-america-part-2-audiotape-reel-0288_01</a></td>
+                <!-- <td>
+                  https://ia902902.us.archive.org/16/items/AudiotapeReel028801/audiotape%20reel%200288_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902903.us.archive.org/27/items/AudiotapeReel0019a01/audiotape%20reel%200019a/Preservation%20Master/audiotape%20reel%200019a_01.mp3">indochina-peace-campaign-audiotape-reel-0019a_01</a></td>
+                <!-- <td>
+                  https://ia902903.us.archive.org/27/items/AudiotapeReel0019a01/audiotape%20reel%200019a/Preservation%20Master/audiotape%20reel%200019a_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902902.us.archive.org/25/items/AudiotapeReel078801/audiotape%20reel%200788_01.mp3">interfaith-vigil-against-war-in-vietnam-mt-vernon-methodist-church-washington-dc-part-1-audiotape-reel-0788_01</a></td>
+                <!-- <td>
+                  https://ia902902.us.archive.org/25/items/AudiotapeReel078801/audiotape%20reel%200788_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-success">Success</span></td>
+                <td>200</td>
+                <td><a href="https://ia802901.us.archive.org/1/items/AudiotapeReel078901/audiotape%20reel%200789_01.mp3">interfaith-vigil-against-war-in-vietnam-mt-vernon-methodist-church-washington-dc-part-2-audiotape-reel-0789_01</a></td>
+                <!-- <td>
+                  https://ia802901.us.archive.org/1/items/AudiotapeReel078901/audiotape%20reel%200789_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802901.us.archive.org/17/items/AudiotapeReel079001/audiotape%20reel%200790_01.mp3">interfaith-vigil-against-war-in-vietnam-the-pentagon-audiotape-reel-0790_01</a></td>
+                <!-- <td>
+                  https://ia802901.us.archive.org/17/items/AudiotapeReel079001/audiotape%20reel%200790_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802901.us.archive.org/17/items/AudiotapeReel079001/audiotape%20reel%200790_02.mp3">interfaith-vigil-against-war-in-vietnam-the-pentagon-audiotape-reel-0790_02</a></td>
+                <!-- <td>
+                  https://ia802901.us.archive.org/17/items/AudiotapeReel079001/audiotape%20reel%200790_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-success">Success</span></td>
+                <td>200</td>
+                <td><a href="https://ia801604.us.archive.org/16/items/AudiotapeReel024602/audiotape%20reel%200246_01.mp3">interview-with-david-harris-boykin-and-others-in-the-resistance-audiotape-reel-0246_01</a></td>
+                <!-- <td>
+                  https://ia801604.us.archive.org/16/items/AudiotapeReel024602/audiotape%20reel%200246_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-success">Success</span></td>
+                <td>200</td>
+                <td><a href="https://ia801604.us.archive.org/16/items/AudiotapeReel024602/audiotape%20reel%200246_02.mp3">interview-with-david-harris-boykin-and-others-in-the-resistance-audiotape-reel-0246_02</a></td>
+                <!-- <td>
+                  https://ia801604.us.archive.org/16/items/AudiotapeReel024602/audiotape%20reel%200246_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802907.us.archive.org/6/items/MotionPicture0044/motion%20picture%200044.mp4">a-call-for-peace-the-military-budget-and-you-motion-picture-0044</a></td>
+                <!-- <td>
+                  https://ia802907.us.archive.org/6/items/MotionPicture0044/motion%20picture%200044.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-success">Success</span></td>
+                <td>200</td>
+                <td><a href="https://ia802905.us.archive.org/0/items/MotionPicture0082/motion%20picture%200082.mp4">abm-short-term-prosperity-vs-long-term-disaster-motion-picture-0082</a></td>
+                <!-- <td>
+                  https://ia802905.us.archive.org/0/items/MotionPicture0082/motion%20picture%200082.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802901.us.archive.org/32/items/MotionPicture0088a/motion%20picture%200088a.mp4">amendment-to-end-the-war-motion-picture-0088a</a></td>
+                <!-- <td>
+                  https://ia802901.us.archive.org/32/items/MotionPicture0088a/motion%20picture%200088a.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802902.us.archive.org/22/items/MotionPicture0035/motion%20picture%200035.mp4">american-wheat-destination-vietnam-motion-picture-0035</a></td>
+                <!-- <td>
+                  https://ia802902.us.archive.org/22/items/MotionPicture0035/motion%20picture%200035.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802902.us.archive.org/24/items/MotionPicture0036a/motion%20picture%200036a.mp4">amnesty-or-exile-motion-picture-0036a</a></td>
+                <!-- <td>
+                  https://ia802902.us.archive.org/24/items/MotionPicture0036a/motion%20picture%200036a.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802906.us.archive.org/5/items/MotionPicture0074b/motion%20picture%200074b.mp4">and-another-mother-for-peace-motion-picture-0074b</a></td>
+                <!-- <td>
+                  https://ia802906.us.archive.org/5/items/MotionPicture0074b/motion%20picture%200074b.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802901.us.archive.org/8/items/MotionPicture0059/motion%20picture%200059.mp4">candidate-s-journal-motion-picture-0059</a></td>
+                <!-- <td>
+                  https://ia802901.us.archive.org/8/items/MotionPicture0059/motion%20picture%200059.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-success">Success</span></td>
+                <td>200</td>
+                <td><a href="https://ia802907.us.archive.org/9/items/MotionPicture0086a/motion%20picture%200086a.mp4">david-schoenbrun-on-vietnam-how-did-we-get-in-how-can-we-get-out-motion-picture-0086a</a></td>
+                <!-- <td>
+                  https://ia802907.us.archive.org/9/items/MotionPicture0086a/motion%20picture%200086a.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802903.us.archive.org/10/items/MotionPicture0025.01/motion%20picture%200025.01.mp4">dien-bien-phu-motion-picture-0025-01</a></td>
+                <!-- <td>
+                  https://ia802903.us.archive.org/10/items/MotionPicture0025.01/motion%20picture%200025.01.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802903.us.archive.org/10/items/MotionPicture0025.01/motion%20picture%200025.02.mp4">dien-bien-phu-motion-picture-0025-02</a></td>
+                <!-- <td>
+                  https://ia802903.us.archive.org/10/items/MotionPicture0025.01/motion%20picture%200025.02.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/28/items/MotionPicture0031.01/motion%20picture%200031.01.mp4">don-luce-and-cora-weiss-in-north-viet-nam-motion-picture-031-01</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/28/items/MotionPicture0031.01/motion%20picture%200031.01.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/28/items/MotionPicture0031.01/motion%20picture%200031.02.mp4">don-luce-and-cora-weiss-in-north-viet-nam-motion-picture-031-02</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/28/items/MotionPicture0031.01/motion%20picture%200031.02.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902900.us.archive.org/28/items/MotionPicture0031.01/motion%20picture%200031.03.mp4">don-luce-and-cora-weiss-in-north-viet-nam-motion-picture-031-03</a></td>
+                <!-- <td>
+                  https://ia902900.us.archive.org/28/items/MotionPicture0031.01/motion%20picture%200031.03.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-success">Success</span></td>
+                <td>200</td>
+                <td><a href="https://ia902907.us.archive.org/35/items/MotionPicture0084_201809/motion%20picture%200084.mp4">draft-card-burners-the-motion-picture-0084_201809</a></td>
+                <!-- <td>
+                  https://ia902907.us.archive.org/35/items/MotionPicture0084_201809/motion%20picture%200084.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902907.us.archive.org/34/items/MotionPicture0083b/motion%20picture%200083b.mp4">eight-flags-for-99-cents-motion-picture-0083b</a></td>
+                <!-- <td>
+                  https://ia902907.us.archive.org/34/items/MotionPicture0083b/motion%20picture%200083b.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802903.us.archive.org/9/items/MotionPicture0034/motion%20picture%200034.mp4">em-be-ha-noi-motion-picture-0034</a></td>
+                <!-- <td>
+                  https://ia802903.us.archive.org/9/items/MotionPicture0034/motion%20picture%200034.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/16/items/MotionPicture0018b/motion%20picture%200018b.mp4">father-daniel-berrigan-the-holy-outlaw-motion-picture-0018b</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/16/items/MotionPicture0018b/motion%20picture%200018b.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802906.us.archive.org/35/items/MotionPicture0061/motion%20picture%200061.mp4">holy-war-motion-picture-0061</a></td>
+                <!-- <td>
+                  https://ia802906.us.archive.org/35/items/MotionPicture0061/motion%20picture%200061.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902905.us.archive.org/4/items/MotionPicture0101/motion%20picture%200101.mp4">message-from-vietnam-a-motion-picture-0101</a></td>
+                <!-- <td>
+                  https://ia902905.us.archive.org/4/items/MotionPicture0101/motion%20picture%200101.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802906.us.archive.org/34/items/MotionPicture0091/motion%20picture%200091.mp4">mrs-nguyen-thi-binh-speaks-to-american-women-motion-picture-0091</a></td>
+                <!-- <td>
+                  https://ia802906.us.archive.org/34/items/MotionPicture0091/motion%20picture%200091.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902906.us.archive.org/31/items/MotionPicture0027/motion%20picture%200027.mp4">peace-plus-two-north-vietnam-revisited-motion-picture-0027</a></td>
+                <!-- <td>
+                  https://ia902906.us.archive.org/31/items/MotionPicture0027/motion%20picture%200027.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902907.us.archive.org/4/items/MotionPicture0037/motion%20picture%200037.mp4">perspectives-on-amnesty-motion-picture-0037</a></td>
+                <!-- <td>
+                  https://ia902907.us.archive.org/4/items/MotionPicture0037/motion%20picture%200037.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802906.us.archive.org/18/items/MotionPicture0137/motion%20picture%200137.mp4">press-boards-phoenix-motion-picture-0137</a></td>
+                <!-- <td>
+                  https://ia802906.us.archive.org/18/items/MotionPicture0137/motion%20picture%200137.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802906.us.archive.org/18/items/MotionPicture0137/motion%20picture%200137.mp4">refugees-laos-motion-picture-0039</a></td>
+                <!-- <td>
+                  https://ia802906.us.archive.org/18/items/MotionPicture0137/motion%20picture%200137.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802907.us.archive.org/14/items/MotionPicture0067/motion%20picture%200067.mp4">rip-off-motion-picture-0067</a></td>
+                <!-- <td>
+                  https://ia802907.us.archive.org/14/items/MotionPicture0067/motion%20picture%200067.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802906.us.archive.org/19/items/MotionPicture0092/motion%20picture%200092.mp4">scenes-of-vietnam-motion-picture-0092</a></td>
+                <!-- <td>
+                  https://ia802906.us.archive.org/19/items/MotionPicture0092/motion%20picture%200092.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/30/items/MotionPicture0087.01a/motion%20picture%200087.01a.mp4">selling-of-the-pentagon-the-motion-picture-0087-01a</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/30/items/MotionPicture0087.01a/motion%20picture%200087.01a.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902900.us.archive.org/30/items/MotionPicture0087.01a/motion%20picture%200087.02a.mp4">selling-of-the-pentagon-the-motion-picture-0087-02a</a></td>
+                <!-- <td>
+                  https://ia902900.us.archive.org/30/items/MotionPicture0087.01a/motion%20picture%200087.02a.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802907.us.archive.org/18/items/MotionPicture0162/motion%20picture%200162.mp4">statement-of-john-kerry-representing-vietnam-veterans-against-the-war-before-the-senate-committee-on-foreign-relations-motion-picture-0162</a></td>
+                <!-- <td>
+                  https://ia802907.us.archive.org/18/items/MotionPicture0162/motion%20picture%200162.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902907.us.archive.org/29/items/MotionPicture0096/motion%20picture%200096.mp4">strike-city-motion-picture-0096</a></td>
+                <!-- <td>
+                  https://ia902907.us.archive.org/29/items/MotionPicture0096/motion%20picture%200096.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802908.us.archive.org/3/items/MotionPicture0186/motion%20picture%200186.mp4">survivors-the-motion-picture-0186</a></td>
+                <!-- <td>
+                  https://ia802908.us.archive.org/3/items/MotionPicture0186/motion%20picture%200186.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902902.us.archive.org/34/items/MotionPicture0024/motion%20picture%200024.mp4">the-culprit-is-nixon-motion-picture-0024</a></td>
+                <!-- <td>
+                  https://ia902902.us.archive.org/34/items/MotionPicture0024/motion%20picture%200024.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802904.us.archive.org/32/items/MotionPicture0084_201808/motion%20picture%200084.mp4">the-draft-card-burners-motion-picture-0084_201808</a></td>
+                <!-- <td>
+                  https://ia802904.us.archive.org/32/items/MotionPicture0084_201808/motion%20picture%200084.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802904.us.archive.org/20/items/MotionPicture0095/motion%20picture%200095.mp4">the-newsreel-anti-draft-in-boston-boston-draft-resistance-group-motion-picture-0095</a></td>
+                <!-- <td>
+                  https://ia802904.us.archive.org/20/items/MotionPicture0095/motion%20picture%200095.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902905.us.archive.org/16/items/MotionPicture0185/motion%20picture%200185.mp4">us-war-crimes-in-vietnam-motion-picture-0185</a></td>
+                <!-- <td>
+                  https://ia902905.us.archive.org/16/items/MotionPicture0185/motion%20picture%200185.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802909.us.archive.org/23/items/MotionPicture0136/motion%20picture%200136.mp4">vietnam-and-beyond-motion-picture-0136</a></td>
+                <!-- <td>
+                  https://ia802909.us.archive.org/23/items/MotionPicture0136/motion%20picture%200136.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802902.us.archive.org/3/items/MotionPicture0023/motion%20picture%200023.mp4">vietnam-war-footage-motion-picture-0023</a></td>
+                <!-- <td>
+                  https://ia802902.us.archive.org/3/items/MotionPicture0023/motion%20picture%200023.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802909.us.archive.org/8/items/MotionPicture0033a/motion%20picture%200033a.mp4">vietnam-still-america-s-war-motion-picture-0033a</a></td>
+                <!-- <td>
+                  https://ia802909.us.archive.org/8/items/MotionPicture0033a/motion%20picture%200033a.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802907.us.archive.org/21/items/MotionPicture0050/motion%20picture%200050.mp4">village-by-village-a-report-on-the-bombing-of-north-viet-nam-motion-picture-0050</a></td>
+                <!-- <td>
+                  https://ia802907.us.archive.org/21/items/MotionPicture0050/motion%20picture%200050.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802907.us.archive.org/31/items/MotionPicture0138/motion%20picture%200138.mp4">voyage-of-the-phoenix-hong-kong-harbor-departure-hong-kong-motion-picture-0138</a></td>
+                <!-- <td>
+                  https://ia802907.us.archive.org/31/items/MotionPicture0138/motion%20picture%200138.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802905.us.archive.org/25/items/MotionPicture0040/motion%20picture%200040.mp4">war-s-children-motion-picture-0040</a></td>
+                <!-- <td>
+                  https://ia802905.us.archive.org/25/items/MotionPicture0040/motion%20picture%200040.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-success">Success</span></td>
+                <td>200</td>
+                <td><a href="https://ia802907.us.archive.org/33/items/MotionPicture0046.01/motion%20picture%200046.01.mp4">why-motion-picture-0046-01</a></td>
+                <!-- <td>
+                  https://ia802907.us.archive.org/33/items/MotionPicture0046.01/motion%20picture%200046.01.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-success">Success</span></td>
+                <td>200</td>
+                <td><a href="https://ia902907.us.archive.org/33/items/MotionPicture0046.01/motion%20picture%200046.02.mp4">why-motion-picture-0046-02</a></td>
+                <!-- <td>
+                  https://ia902907.us.archive.org/33/items/MotionPicture0046.01/motion%20picture%200046.02.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-success">Success</span></td>
+                <td>200</td>
+                <td><a href="https://ia902907.us.archive.org/33/items/MotionPicture0046.01/motion%20picture%200046.03.mp4">why-motion-picture-0046-03</a></td>
+                <!-- <td>
+                  https://ia902907.us.archive.org/33/items/MotionPicture0046.01/motion%20picture%200046.03.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802908.us.archive.org/29/items/MotionPicture0064/motion%20picture%200064.mp4">winter-soldier-investigation-americal-division-motion-picture-0064</a></td>
+                <!-- <td>
+                  https://ia802908.us.archive.org/29/items/MotionPicture0064/motion%20picture%200064.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-success">Success</span></td>
+                <td>200</td>
+                <td><a href="https://ia802905.us.archive.org/7/items/MotionPicture0183/motion%20picture%200183.mp4">women-in-vietnam-motion-picture-0183</a></td>
+                <!-- <td>
+                  https://ia802905.us.archive.org/7/items/MotionPicture0183/motion%20picture%200183.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802908.us.archive.org/17/items/MotionPicture0150a/motion%20picture%200150a.mp4">women-strike-for-peace-march-on-washington-motion-picture-0150a</a></td>
+                <!-- <td>
+                  https://ia802908.us.archive.org/17/items/MotionPicture0150a/motion%20picture%200150a.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802908.us.archive.org/3/items/MotionPicture0028/motion%20picture%200028.mp4">year-of-the-tiger-the-motion-picture-0028</a></td>
+                <!-- <td>
+                  https://ia802908.us.archive.org/3/items/MotionPicture0028/motion%20picture%200028.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902906.us.archive.org/3/items/MotionPicture0075a/motion%20picture%200075a.mp4">you-don-t-have-to-buy-war-mrs-smith-motion-picture-0075a</a></td>
+                <!-- <td>
+                  https://ia902906.us.archive.org/3/items/MotionPicture0075a/motion%20picture%200075a.mp4
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902902.us.archive.org/18/items/AudiotapeReel024702/audiotape%20reel%200247_01.mp3">interviews-about-resistance-with-david-mitchell-paul-lauter-and-florence-howe-audiotape-reel-0247_01</a></td>
+                <!-- <td>
+                  https://ia902902.us.archive.org/18/items/AudiotapeReel024702/audiotape%20reel%200247_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802902.us.archive.org/18/items/AudiotapeReel024702/audiotape%20reel%200247_02.mp3">interviews-about-resistance-with-david-mitchell-paul-lauter-and-florence-howe-audiotape-reel-0247_02</a></td>
+                <!-- <td>
+                  https://ia802902.us.archive.org/18/items/AudiotapeReel024702/audiotape%20reel%200247_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802906.us.archive.org/20/items/AudiotapeReel044202/audiotape%20reel%200442_01.mp3">interviews-on-opposition-to-the-vietnam-war-from-radio-series-produced-by-world-peace-broadcasting-foundation-audiotape-reel-0442-01</a></td>
+                <!-- <td>
+                  https://ia802906.us.archive.org/20/items/AudiotapeReel044202/audiotape%20reel%200442_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902906.us.archive.org/20/items/AudiotapeReel044202/audiotape%20reel%200442_02.mp3">interviews-on-opposition-to-the-vietnam-war-from-radio-series-produced-by-world-peace-broadcasting-foundation-audiotape-reel-0442-02</a></td>
+                <!-- <td>
+                  https://ia902906.us.archive.org/20/items/AudiotapeReel044202/audiotape%20reel%200442_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802908.us.archive.org/29/items/AudiotapeReel025602b/audiotape%20reel%200256_01a.mp3">interviews-with-draft-deserters-resisters-and-with-american-exiles-part-1-audiotape-reel-0256_01a</a></td>
+                <!-- <td>
+                  https://ia802908.us.archive.org/29/items/AudiotapeReel025602b/audiotape%20reel%200256_01a.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802908.us.archive.org/29/items/AudiotapeReel025602b/audiotape%20reel%200256_01b.mp3">interviews-with-draft-deserters-resisters-and-with-american-exiles-part-1-audiotape-reel-0256_01b</a></td>
+                <!-- <td>
+                  https://ia802908.us.archive.org/29/items/AudiotapeReel025602b/audiotape%20reel%200256_01b.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802908.us.archive.org/29/items/AudiotapeReel025602b/audiotape%20reel%200256_01c.mp3">interviews-with-draft-deserters-resisters-and-with-american-exiles-part-1-audiotape-reel-0256_01c</a></td>
+                <!-- <td>
+                  https://ia802908.us.archive.org/29/items/AudiotapeReel025602b/audiotape%20reel%200256_01c.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902908.us.archive.org/29/items/AudiotapeReel025602b/audiotape%20reel%200256_01d.mp3">interviews-with-draft-deserters-resisters-and-with-american-exiles-part-1-audiotape-reel-0256_01d</a></td>
+                <!-- <td>
+                  https://ia902908.us.archive.org/29/items/AudiotapeReel025602b/audiotape%20reel%200256_01d.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802908.us.archive.org/29/items/AudiotapeReel025602b/audiotape%20reel%200256_01e.mp3">interviews-with-draft-deserters-resisters-and-with-american-exiles-part-1-audiotape-reel-0256_01e</a></td>
+                <!-- <td>
+                  https://ia802908.us.archive.org/29/items/AudiotapeReel025602b/audiotape%20reel%200256_01e.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902908.us.archive.org/29/items/AudiotapeReel025602b/audiotape%20reel%200256_01f.mp3">interviews-with-draft-deserters-resisters-and-with-american-exiles-part-1-audiotape-reel-0256_01f</a></td>
+                <!-- <td>
+                  https://ia902908.us.archive.org/29/items/AudiotapeReel025602b/audiotape%20reel%200256_01f.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902908.us.archive.org/29/items/AudiotapeReel025602b/audiotape%20reel%200256_02a.mp3">interviews-with-draft-deserters-resisters-and-with-american-exiles-part-1-audiotape-reel-0256_02a</a></td>
+                <!-- <td>
+                  https://ia902908.us.archive.org/29/items/AudiotapeReel025602b/audiotape%20reel%200256_02a.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802908.us.archive.org/29/items/AudiotapeReel025602b/audiotape%20reel%200256_02b.mp3">interviews-with-draft-deserters-resisters-and-with-american-exiles-part-1-audiotape-reel-0256_02b</a></td>
+                <!-- <td>
+                  https://ia802908.us.archive.org/29/items/AudiotapeReel025602b/audiotape%20reel%200256_02b.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802908.us.archive.org/29/items/AudiotapeReel025602b/audiotape%20reel%200256_02c.mp3">interviews-with-draft-deserters-resisters-and-with-american-exiles-part-1-audiotape-reel-0256_02c</a></td>
+                <!-- <td>
+                  https://ia802908.us.archive.org/29/items/AudiotapeReel025602b/audiotape%20reel%200256_02c.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802906.us.archive.org/21/items/AudiotapeReel025702c/audiotape%20reel%200257_01a.mp3">interviews-with-draft-deserters-resisters-and-with-american-exiles-part-2-audiotape-reel-0257_01a</a></td>
+                <!-- <td>
+                  https://ia802906.us.archive.org/21/items/AudiotapeReel025702c/audiotape%20reel%200257_01a.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802906.us.archive.org/21/items/AudiotapeReel025702c/audiotape%20reel%200257_01b.mp3">interviews-with-draft-deserters-resisters-and-with-american-exiles-part-2-audiotape-reel-0257_01b</a></td>
+                <!-- <td>
+                  https://ia802906.us.archive.org/21/items/AudiotapeReel025702c/audiotape%20reel%200257_01b.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802906.us.archive.org/21/items/AudiotapeReel025702c/audiotape%20reel%200257_01c.mp3">interviews-with-draft-deserters-resisters-and-with-american-exiles-part-2-audiotape-reel-0257_01c</a></td>
+                <!-- <td>
+                  https://ia802906.us.archive.org/21/items/AudiotapeReel025702c/audiotape%20reel%200257_01c.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802906.us.archive.org/21/items/AudiotapeReel025702c/audiotape%20reel%200257_02a.mp3">interviews-with-draft-deserters-resisters-and-with-american-exiles-part-2-audiotape-reel-0257_02a</a></td>
+                <!-- <td>
+                  https://ia802906.us.archive.org/21/items/AudiotapeReel025702c/audiotape%20reel%200257_02a.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802906.us.archive.org/21/items/AudiotapeReel025702c/audiotape%20reel%200257_02b.mp3">interviews-with-draft-deserters-resisters-and-with-american-exiles-part-2-audiotape-reel-0257_02b</a></td>
+                <!-- <td>
+                  https://ia802906.us.archive.org/21/items/AudiotapeReel025702c/audiotape%20reel%200257_02b.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802906.us.archive.org/21/items/AudiotapeReel025702c/audiotape%20reel%200257_02c.mp3">interviews-with-draft-deserters-resisters-and-with-american-exiles-part-2-audiotape-reel-0257_02c</a></td>
+                <!-- <td>
+                  https://ia802906.us.archive.org/21/items/AudiotapeReel025702c/audiotape%20reel%200257_02c.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902902.us.archive.org/25/items/AudiotapeReel025801a/audiotape%20reel%200258_01a.mp3">interviews-with-draft-deserters-resisters-and-with-american-exiles-part-3-audiotape-reel-0258_01a</a></td>
+                <!-- <td>
+                  https://ia902902.us.archive.org/25/items/AudiotapeReel025801a/audiotape%20reel%200258_01a.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802902.us.archive.org/25/items/AudiotapeReel025801a/audiotape%20reel%200258_01b.mp3">interviews-with-draft-deserters-resisters-and-with-american-exiles-part-3-audiotape-reel-0258_01b</a></td>
+                <!-- <td>
+                  https://ia802902.us.archive.org/25/items/AudiotapeReel025801a/audiotape%20reel%200258_01b.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802805.us.archive.org/26/items/AudiotapeReel024801/audiotape%20reel%200248_01.mp3">interviews-with-people-in-ann-arbor-michigan-resistance-audiotape-reel-0248_01</a></td>
+                <!-- <td>
+                  https://ia802805.us.archive.org/26/items/AudiotapeReel024801/audiotape%20reel%200248_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802805.us.archive.org/26/items/AudiotapeReel024801/audiotape%20reel%200248_02.mp3">interviews-with-people-in-ann-arbor-michigan-resistance-audiotape-reel-0248_02</a></td>
+                <!-- <td>
+                  https://ia802805.us.archive.org/26/items/AudiotapeReel024801/audiotape%20reel%200248_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802805.us.archive.org/18/items/AudiotapeReel024401/audiotape%20reel%200244_01.mp3">interviews-with-people-in-minnesota-resistance-including-greg-calvert-and-david-harris-audiotape-reel-0244_01</a></td>
+                <!-- <td>
+                  https://ia802805.us.archive.org/18/items/AudiotapeReel024401/audiotape%20reel%200244_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802805.us.archive.org/18/items/AudiotapeReel024401/audiotape%20reel%200244_02.mp3">interviews-with-people-in-minnesota-resistance-including-greg-calvert-and-david-harris-audiotape-reel-0244_02</a></td>
+                <!-- <td>
+                  https://ia802805.us.archive.org/18/items/AudiotapeReel024401/audiotape%20reel%200244_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902901.us.archive.org/35/items/AudiotapeReel035801/audiotape%20reel%200358_01.mp3">joint-press-conference-by-representatives-of-business-executives-move-for-vietnam-peace-bem-and-vietnam-veterans-against-the-war-vvaw-audiotape-reel-0358_01</a></td>
+                <!-- <td>
+                  https://ia902901.us.archive.org/35/items/AudiotapeReel035801/audiotape%20reel%200358_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902900.us.archive.org/14/items/AudiotapeReel046001/audiotape%20reel%200460_01.mp3">limits-of-freedom-and-dissent-3-untitled-4-audiotape-reel-0460_01</a></td>
+                <!-- <td>
+                  https://ia902900.us.archive.org/14/items/AudiotapeReel046001/audiotape%20reel%200460_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/14/items/AudiotapeReel046001/audiotape%20reel%200460_02.mp3">limits-of-freedom-and-dissent-3-untitled-4-audiotape-reel-0460_02</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/14/items/AudiotapeReel046001/audiotape%20reel%200460_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802906.us.archive.org/30/items/AudiotapeReel044901/audiotape%20reel%200449_01.mp3">news-conference-on-opposition-to-the-vietnam-war-congressman-george-e-brown-jr-audiotape-reel-0449_01</a></td>
+                <!-- <td>
+                  https://ia802906.us.archive.org/30/items/AudiotapeReel044901/audiotape%20reel%200449_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802901.us.archive.org/17/items/AudiotapeReel021601/audiotape%20reel%200216_01.mp3">north-vietnam-soundtrack-to-slide-show-audiotape-reel-0216_01</a></td>
+                <!-- <td>
+                  https://ia802901.us.archive.org/17/items/AudiotapeReel021601/audiotape%20reel%200216_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802908.us.archive.org/17/items/AudiotapeReel057501/audiotape%20reel%200575_01.mp3">north-vietnam-the-struggle-to-rebuild-152-audiotape-reel-0575_01</a></td>
+                <!-- <td>
+                  https://ia802908.us.archive.org/17/items/AudiotapeReel057501/audiotape%20reel%200575_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802905.us.archive.org/19/items/AudiotapeReel021301/audiotape%20reel%200213_01.mp3">panther-manifesto-the-audiotape-reel-0213_01</a></td>
+                <!-- <td>
+                  https://ia802905.us.archive.org/19/items/AudiotapeReel021301/audiotape%20reel%200213_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902903.us.archive.org/9/items/AudiotapeReel037101/audiotape%20reel%200371_01.mp3">peace-contest-luncheon-of-business-executives-move-for-vietnam-peace-bem-part-1-audiotape-reel-0371_01</a></td>
+                <!-- <td>
+                  https://ia902903.us.archive.org/9/items/AudiotapeReel037101/audiotape%20reel%200371_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-success">Success</span></td>
+                <td>200</td>
+                <td><a href="https://ia802909.us.archive.org/31/items/AudiotapeReel037201/audiotape%20reel%200372_01.mp3">peace-contest-luncheon-of-business-executives-move-for-vietnam-peace-bem-part-2-audiotape-reel-0372_01</a></td>
+                <!-- <td>
+                  https://ia802909.us.archive.org/31/items/AudiotapeReel037201/audiotape%20reel%200372_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802902.us.archive.org/30/items/AudiotapeReel037301/audiotape%20reel%200373_01.mp3">peace-contest-luncheon-of-business-executives-move-for-vietnam-peace-bem-part-3-audiotape-reel-0373_01</a></td>
+                <!-- <td>
+                  https://ia802902.us.archive.org/30/items/AudiotapeReel037301/audiotape%20reel%200373_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902902.us.archive.org/27/items/AudiotapeReel037401/audiotape%20reel%200374_01.mp3">peace-contest-luncheon-of-business-executives-move-for-vietnam-peace-bem-part-4-audiotape-reel-0374_01</a></td>
+                <!-- <td>
+                  https://ia902902.us.archive.org/27/items/AudiotapeReel037401/audiotape%20reel%200374_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902906.us.archive.org/5/items/AudiotapeReel036501/audiotape%20reel%200365_01.mp3">public-service-messages-in-opposition-to-the-vietnam-war-brought-to-you-by-business-executives-move-for-vietnam-peace-bem-william-wallace-ford-arnold-true-marriner-s-eccles-george-wald-audiotape-reel-0365_01</a></td>
+                <!-- <td>
+                  https://ia902906.us.archive.org/5/items/AudiotapeReel036501/audiotape%20reel%200365_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902906.us.archive.org/35/items/AudiotapeReel036201/audiotape%20reel%200362_01.mp3">public-service-messages-sponsored-by-business-executives-move-for-vietnam-peace-bem-arnold-true-marriner-eccles-george-wald-audiotape-reel-0362_01</a></td>
+                <!-- <td>
+                  https://ia902906.us.archive.org/35/items/AudiotapeReel036201/audiotape%20reel%200362_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802904.us.archive.org/5/items/AudiotapeReel036301/audiotape%20reel%200363_01.mp3">public-service-messages-sponsored-by-business-executives-move-for-vietnam-peace-bem-marriner-eccles-george-wald-audiotape-reel-0363_01</a></td>
+                <!-- <td>
+                  https://ia802904.us.archive.org/5/items/AudiotapeReel036301/audiotape%20reel%200363_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902901.us.archive.org/23/items/AudiotapeReel055301/audiotape%20reel%200553_01.mp3">report-from-vietnam-a-130-audiotape-reel-0553_01</a></td>
+                <!-- <td>
+                  https://ia902901.us.archive.org/23/items/AudiotapeReel055301/audiotape%20reel%200553_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802906.us.archive.org/4/items/AudiotapeReel024301/audiotape%20reel%200243_01.mp3">representatives-from-draft-resistance-groups-in-boston-minneapolis-st-louis-and-philadelphia-speak-audiotape-reel-0243_01</a></td>
+                <!-- <td>
+                  https://ia802906.us.archive.org/4/items/AudiotapeReel024301/audiotape%20reel%200243_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902906.us.archive.org/4/items/AudiotapeReel024301/audiotape%20reel%200243_02.mp3">representatives-from-draft-resistance-groups-in-boston-minneapolis-st-louis-and-philadelphia-speak-audiotape-reel-0243_02</a></td>
+                <!-- <td>
+                  https://ia902906.us.archive.org/4/items/AudiotapeReel024301/audiotape%20reel%200243_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902905.us.archive.org/5/items/AudiotapeReel018901/audiotape%20reel%200189_01.mp3">saigon-project-bradford-lyttle-and-william-davidon-talk-about-their-visit-to-saigon-audiotape-reel-0189_01</a></td>
+                <!-- <td>
+                  https://ia902905.us.archive.org/5/items/AudiotapeReel018901/audiotape%20reel%200189_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902907.us.archive.org/13/items/AudiotapeReel019001/audiotape%20reel%200190_01.mp3">saigon-project-i-f-stone-a-j-muste-and-isaac-deutscher-talk-about-their-visit-to-saigon-audiotape-reel-0190_01</a></td>
+                <!-- <td>
+                  https://ia902907.us.archive.org/13/items/AudiotapeReel019001/audiotape%20reel%200190_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802907.us.archive.org/13/items/AudiotapeReel019001/audiotape%20reel%200190_02.mp3">saigon-project-i-f-stone-a-j-muste-and-isaac-deutscher-talk-about-their-visit-to-saigon-audiotape-reel-0190_02</a></td>
+                <!-- <td>
+                  https://ia802907.us.archive.org/13/items/AudiotapeReel019001/audiotape%20reel%200190_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902900.us.archive.org/27/items/AudiotapeReel0650.101/audiotape%20reel%200650.1_01.mp3">sane-vietnam-war-protest-rally-part-1-audiotape-reel-0650-1_01</a></td>
+                <!-- <td>
+                  https://ia902900.us.archive.org/27/items/AudiotapeReel0650.101/audiotape%20reel%200650.1_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902900.us.archive.org/27/items/AudiotapeReel0650.101/audiotape%20reel%200650.1_02.mp3">sane-vietnam-war-protest-rally-part-1-audiotape-reel-0650-1_02</a></td>
+                <!-- <td>
+                  https://ia902900.us.archive.org/27/items/AudiotapeReel0650.101/audiotape%20reel%200650.1_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802905.us.archive.org/10/items/AudiotapeReel0652.202/audiotape%20reel%200652.2_01.mp3">sane-vietnam-war-protest-rally-part-2-audiotape-reel-0652-2_01</a></td>
+                <!-- <td>
+                  https://ia802905.us.archive.org/10/items/AudiotapeReel0652.202/audiotape%20reel%200652.2_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802905.us.archive.org/10/items/AudiotapeReel0652.202/audiotape%20reel%200652.2_02.mp3">sane-vietnam-war-protest-rally-part-2-audiotape-reel-0652-2_02</a></td>
+                <!-- <td>
+                  https://ia802905.us.archive.org/10/items/AudiotapeReel0652.202/audiotape%20reel%200652.2_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802904.us.archive.org/25/items/AudiotapeReel0652.302/audiotape%20reel%200652.3_01.mp3">sane-vietnam-war-protest-rally-part-3-audiotape-reel-0652-3_01</a></td>
+                <!-- <td>
+                  https://ia802904.us.archive.org/25/items/AudiotapeReel0652.302/audiotape%20reel%200652.3_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902904.us.archive.org/25/items/AudiotapeReel0652.302/audiotape%20reel%200652.3_02.mp3">sane-vietnam-war-protest-rally-part-3-audiotape-reel-0652-3_02</a></td>
+                <!-- <td>
+                  https://ia902904.us.archive.org/25/items/AudiotapeReel0652.302/audiotape%20reel%200652.3_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802905.us.archive.org/27/items/AudiotapeReel0650.302/audiotape%20reel%200650.3_01.mp3">sane-vietnam-war-protest-rally-part-3-audiotape-reel-0650-3_01</a></td>
+                <!-- <td>
+                  https://ia802905.us.archive.org/27/items/AudiotapeReel0650.302/audiotape%20reel%200650.3_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802905.us.archive.org/27/items/AudiotapeReel0650.302/audiotape%20reel%200650.3_02.mp3">sane-vietnam-war-protest-rally-part-3-audiotape-reel-0650-3_02</a></td>
+                <!-- <td>
+                  https://ia802905.us.archive.org/27/items/AudiotapeReel0650.302/audiotape%20reel%200650.3_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-success">Success</span></td>
+                <td>200</td>
+                <td><a href="https://ia802908.us.archive.org/32/items/AudiotapeReel0652.402/audiotape%20reel%200652.4_01.mp3">sane-vietnam-war-protest-rally-part-4-audiotape-reel-0652-4_01</a></td>
+                <!-- <td>
+                  https://ia802908.us.archive.org/32/items/AudiotapeReel0652.402/audiotape%20reel%200652.4_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-success">Success</span></td>
+                <td>200</td>
+                <td><a href="https://ia802908.us.archive.org/32/items/AudiotapeReel0652.402/audiotape%20reel%200652.4_02.mp3">sane-vietnam-war-protest-rally-part-4-audiotape-reel-0652-4_02</a></td>
+                <!-- <td>
+                  https://ia802908.us.archive.org/32/items/AudiotapeReel0652.402/audiotape%20reel%200652.4_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802908.us.archive.org/21/items/AudiotapeReel0650.401/audiotape%20reel%200650.4_01.mp3">sane-vietnam-war-protest-rally-part-4-audiotape-reel-0650-4_01</a></td>
+                <!-- <td>
+                  https://ia802908.us.archive.org/21/items/AudiotapeReel0650.401/audiotape%20reel%200650.4_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902908.us.archive.org/21/items/AudiotapeReel0650.401/audiotape%20reel%200650.4_02.mp3">sane-vietnam-war-protest-rally-part-4-audiotape-reel-0650-4_02</a></td>
+                <!-- <td>
+                  https://ia902908.us.archive.org/21/items/AudiotapeReel0650.401/audiotape%20reel%200650.4_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902909.us.archive.org/21/items/AudiotapeReel051801/audiotape%20reel%200518_01.mp3">south-vietnam-life-under-the-provisional-revolutionary-government-95-audiotape-reel-0518_01</a></td>
+                <!-- <td>
+                  https://ia902909.us.archive.org/21/items/AudiotapeReel051801/audiotape%20reel%200518_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/33/items/AudiotapeReel024202/audiotape%20reel%200242_01.mp3">speech-by-sandy-wilkinson-minnesota-resistance-at-civil-liberties-union-audiotape-reel-0242_01</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/33/items/AudiotapeReel024202/audiotape%20reel%200242_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902900.us.archive.org/33/items/AudiotapeReel024202/audiotape%20reel%200242_02.mp3">speech-by-sandy-wilkinson-minnesota-resistance-at-civil-liberties-union-audiotape-reel-0242_02</a></td>
+                <!-- <td>
+                  https://ia902900.us.archive.org/33/items/AudiotapeReel024202/audiotape%20reel%200242_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/33/items/AudiotapeReel024202/audiotape%20reel%200242_03.mp3">speech-by-sandy-wilkinson-minnesota-resistance-at-civil-liberties-union-audiotape-reel-0242_03</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/33/items/AudiotapeReel024202/audiotape%20reel%200242_03.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902900.us.archive.org/33/items/AudiotapeReel024202/audiotape%20reel%200242_04.mp3">speech-by-sandy-wilkinson-minnesota-resistance-at-civil-liberties-union-audiotape-reel-0242_04</a></td>
+                <!-- <td>
+                  https://ia902900.us.archive.org/33/items/AudiotapeReel024202/audiotape%20reel%200242_04.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902901.us.archive.org/10/items/AudiotapeReel020501a/audiotape%20reel%200205_01a.mp3">strategy-sessions-on-board-the-phoenix-during-the-trip-to-south-vietnam-audiotape-reel-0205_01a</a></td>
+                <!-- <td>
+                  https://ia902901.us.archive.org/10/items/AudiotapeReel020501a/audiotape%20reel%200205_01a.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902901.us.archive.org/10/items/AudiotapeReel020501a/audiotape%20reel%200205_01b.mp3">strategy-sessions-on-board-the-phoenix-during-the-trip-to-south-vietnam-audiotape-reel-0205_01b</a></td>
+                <!-- <td>
+                  https://ia902901.us.archive.org/10/items/AudiotapeReel020501a/audiotape%20reel%200205_01b.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902901.us.archive.org/10/items/AudiotapeReel020501a/audiotape%20reel%200205_02a.mp3">strategy-sessions-on-board-the-phoenix-during-the-trip-to-south-vietnam-audiotape-reel-0205_02a</a></td>
+                <!-- <td>
+                  https://ia902901.us.archive.org/10/items/AudiotapeReel020501a/audiotape%20reel%200205_02a.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802901.us.archive.org/10/items/AudiotapeReel020501a/audiotape%20reel%200205_02b.mp3">strategy-sessions-on-board-the-phoenix-during-the-trip-to-south-vietnam-audiotape-reel-0205_02b</a></td>
+                <!-- <td>
+                  https://ia802901.us.archive.org/10/items/AudiotapeReel020501a/audiotape%20reel%200205_02b.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802908.us.archive.org/16/items/AudiotapeReel002103/audiotape%20reel%200021_01.mp3">tell-them-we-are-people-audiotape-reel-0021_01</a></td>
+                <!-- <td>
+                  https://ia802908.us.archive.org/16/items/AudiotapeReel002103/audiotape%20reel%200021_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802908.us.archive.org/16/items/AudiotapeReel002103/audiotape%20reel%200021_02.mp3">tell-them-we-are-people-audiotape-reel-0021_02</a></td>
+                <!-- <td>
+                  https://ia802908.us.archive.org/16/items/AudiotapeReel002103/audiotape%20reel%200021_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802908.us.archive.org/16/items/AudiotapeReel002103/audiotape%20reel%200021_03.mp3">tell-them-we-are-people-audiotape-reel-0021_03</a></td>
+                <!-- <td>
+                  https://ia802908.us.archive.org/16/items/AudiotapeReel002103/audiotape%20reel%200021_03.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902900.us.archive.org/14/items/AudiotapeReel024502/audiotape%20reel%200245_01.mp3">university-of-chicago-students-chicago-area-draft-resistance-cadre-audiotape-reel-0245_01</a></td>
+                <!-- <td>
+                  https://ia902900.us.archive.org/14/items/AudiotapeReel024502/audiotape%20reel%200245_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/14/items/AudiotapeReel024502/audiotape%20reel%200245_02.mp3">university-of-chicago-students-chicago-area-draft-resistance-cadre-audiotape-reel-0245_02</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/14/items/AudiotapeReel024502/audiotape%20reel%200245_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802907.us.archive.org/12/items/AudiotapeReel020401/audiotape%20reel%200204_01.mp3">unsell-the-war-audiotape-reel-0204_01</a></td>
+                <!-- <td>
+                  https://ia802907.us.archive.org/12/items/AudiotapeReel020401/audiotape%20reel%200204_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902904.us.archive.org/30/items/AudiotapeReel076601/audiotape%20reel%200766_01.mp3">us-policy-in-vietnam-viewed-from-the-un-side-1-a-fresh-approach-to-a-negotiated-settlement-in-vietnam-side-1-audotape-reel-0766_01</a></td>
+                <!-- <td>
+                  https://ia902904.us.archive.org/30/items/AudiotapeReel076601/audiotape%20reel%200766_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902904.us.archive.org/30/items/AudiotapeReel076601/audiotape%20reel%200766_02.mp3">us-policy-in-vietnam-viewed-from-the-un-side-1-a-fresh-approach-to-a-negotiated-settlement-in-vietnam-side-1-audotape-reel-0766_02</a></td>
+                <!-- <td>
+                  https://ia902904.us.archive.org/30/items/AudiotapeReel076601/audiotape%20reel%200766_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802903.us.archive.org/22/items/AudiotapeReel067401/audiotape%20reel%200674_01.mp3">vietnam-beyond-audiotape-reel-0674_01</a></td>
+                <!-- <td>
+                  https://ia802903.us.archive.org/22/items/AudiotapeReel067401/audiotape%20reel%200674_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802903.us.archive.org/6/items/AudiotapeReel056101/audiotape%20reel%200561_01.mp3">vietnam-a-perspective-from-history-138-audiotape-reel-0561_01</a></td>
+                <!-- <td>
+                  https://ia802903.us.archive.org/6/items/AudiotapeReel056101/audiotape%20reel%200561_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802905.us.archive.org/35/items/AudiotapeReel055201/audiotape%20reel%200552_01.mp3">vietnam-perspective-from-history-129-audiotape-reel-0552_01</a></td>
+                <!-- <td>
+                  https://ia802905.us.archive.org/35/items/AudiotapeReel055201/audiotape%20reel%200552_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/11/items/AudiotapeReel048702/audiotape%20reel%200487_01.mp3">vietnam-reconstructing-the-war-58-reflections-on-watergate-and-other-scandals-59-audiotape-reel-0487_01</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/11/items/AudiotapeReel048702/audiotape%20reel%200487_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/11/items/AudiotapeReel048702/audiotape%20reel%200487_02.mp3">vietnam-reconstructing-the-war-58-reflections-on-watergate-and-other-scandals-59-audiotape-reel-0487_02</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/11/items/AudiotapeReel048702/audiotape%20reel%200487_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802901.us.archive.org/2/items/AudiotapeReel048102/audiotape%20reel%200481_01.mp3">vietnam-the-new-form-of-intervention-45-why-does-peace-cost-more-than-war-the-view-from-the-senate-46-audiotape-reel-0481_01</a></td>
+                <!-- <td>
+                  https://ia802901.us.archive.org/2/items/AudiotapeReel048102/audiotape%20reel%200481_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802901.us.archive.org/2/items/AudiotapeReel048102/audiotape%20reel%200481_02.mp3">vietnam-the-new-form-of-intervention-45-why-does-peace-cost-more-than-war-the-view-from-the-senate-46-audiotape-reel-0481_02</a></td>
+                <!-- <td>
+                  https://ia802901.us.archive.org/2/items/AudiotapeReel048102/audiotape%20reel%200481_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia902908.us.archive.org/34/items/AudiotapeReel056001/audiotape%20reel%200560_01.mp3">vietnam-two-months-after-liberation-137-audiotape-reel-0560_01</a></td>
+                <!-- <td>
+                  https://ia902908.us.archive.org/34/items/AudiotapeReel056001/audiotape%20reel%200560_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802901.us.archive.org/21/items/AudiotapeReel073601/audiotape%20reel%200736_01.mp3">war-resisters-league-conference-audiotape-reel-0736_01</a></td>
+                <!-- <td>
+                  https://ia802901.us.archive.org/21/items/AudiotapeReel073601/audiotape%20reel%200736_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802901.us.archive.org/21/items/AudiotapeReel073601/audiotape%20reel%200736_02.mp3">war-resisters-league-conference-audiotape-reel-0736_02</a></td>
+                <!-- <td>
+                  https://ia802901.us.archive.org/21/items/AudiotapeReel073601/audiotape%20reel%200736_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802906.us.archive.org/34/items/AudiotapeReel077101/audiotape%20reel%200771_01.mp3">window-on-washington-audiotape-reel-0771_01</a></td>
+                <!-- <td>
+                  https://ia802906.us.archive.org/34/items/AudiotapeReel077101/audiotape%20reel%200771_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802901.us.archive.org/20/items/AudiotapeReel003401/audiotape%20reel%200034/Preservation%20Master/audiotape%20reel%200034_01.mp3">women-s-international-league-for-peace-and-freedom-wilpf-international-congress-vietnam-visit-audiotape-reel-0034_01</a></td>
+                <!-- <td>
+                  https://ia802901.us.archive.org/20/items/AudiotapeReel003401/audiotape%20reel%200034/Preservation%20Master/audiotape%20reel%200034_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-success">Success</span></td>
+                <td>200</td>
+                <td><a href="https://ia802909.us.archive.org/13/items/AudiotapeReel080001/audiotape%20reel%200800_01.mp3">world-food-crisis-the-side-1-population-crisis-side-1-dilemmas-of-a-congressman-side-2-audiotape-reel-0800_01</a></td>
+                <!-- <td>
+                  https://ia802909.us.archive.org/13/items/AudiotapeReel080001/audiotape%20reel%200800_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-success">Success</span></td>
+                <td>200</td>
+                <td><a href="https://ia802909.us.archive.org/13/items/AudiotapeReel080001/audiotape%20reel%200800_02.mp3">world-food-crisis-the-side-1-population-crisis-side-1-dilemmas-of-a-congressman-side-2-audiotape-reel-0800_02</a></td>
+                <!-- <td>
+                  https://ia802909.us.archive.org/13/items/AudiotapeReel080001/audiotape%20reel%200800_02.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+              <tr>
+                <td><span class="badge badge-dark">Unknown</span></td>
+                <td>301</td>
+                <td><a href="https://ia802900.us.archive.org/2/items/AudiotapeReel080101/audiotape%20reel%200801_01.mp3">world-food-crisis-the-side-folly-of-us-policy-in-vietnam-audiotape-reel-0801_01</a></td>
+                <!-- <td>
+                  https://ia802900.us.archive.org/2/items/AudiotapeReel080101/audiotape%20reel%200801_01.mp3
+                </td> -->
+                <td></td>
+                <td>false</td>
+              </tr>
+            
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>

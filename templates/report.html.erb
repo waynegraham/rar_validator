@@ -22,6 +22,7 @@ unavailable_percentage: <%= @grant[:unavailable_percentage] %>
           <thead>
             <tr>
               <th scope="col">Status</th>
+              <th scope="col">Status Code</th>
               <th scope="col">Filename</th>
               <th scope="col">URL</th>
               <th scope="col">Checksum</th>
@@ -30,13 +31,16 @@ unavailable_percentage: <%= @grant[:unavailable_percentage] %>
           </thead>
           <tbody>
             <% @assets.each do |asset| %>
-            <tr>
-              <td><%= status_badge asset[:status] %></td>
-              <td><%= asset[:filename] %></td>
-              <td><%= asset[:online_url] %></td>
-              <td><%= asset[:checksum] %></td>
-              <td><%= asset[:restricted] %></td>
-            </tr>
+              <tr>
+                <td><%= status_badge asset[:status] %></td>
+                <td><%= asset[:status] %></td>
+                <td><a href="<%= asset[:online_url] %>"><%= asset[:filename] %></a></td>
+                <!-- <td>
+                  <%= asset[:online_url] %>
+                </td> -->
+                <td><%= asset[:checksum] %></td>
+                <td><%= asset[:restricted] %></td>
+              </tr>
             <% end %>
           </tbody>
         </table>

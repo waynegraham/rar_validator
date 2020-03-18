@@ -7,16 +7,47 @@ require 'to_bool'
 # https://github.com/rack/rack/blob/master/lib/rack/utils.rb#L492
 require 'rack'
 
+require 'active_support/core_ext/string/inflections'
 require 'erb'
 require 'uri'
 require 'net/http'
 require 'json'
 
+# I wrote these after a transatlantic flight...
+def validate_grant_number(spreadsheet, file)
+  grant_number = spreadsheet.sheet(0).row(1)[1]
+  if grant_number.nil?
+    puts "\t The grant number invalid".red
+  end
+end
+
+def validate_submission_date(spreadsheet, file)
+  date = Chronic.parse(spreadsheet.sheet(0).row(6)[1])
+  #TODO: trow error
+  if date.nil?
+    puts "\tDate is invalid".red
+  end
+end
+
+def validate_manifest(file)
+  spreadsheet = Roo::Spreadsheet.open(file)
+
+  # check grant number
+  validate_grant_number(spreadsheet, file)
+  # check project title
+  # check lead institution
+  # check lead institution
+  # check submission date
+  validate_submission_date(spreadsheet, file)
+
+
+end
+
 def filename(spreadsheet, directory, suffix)
   # TODO guard the date field
    formatted_date = Chronic.parse(spreadsheet.sheet(0).row(6)[1]).strftime('%Y-%m-%d')
    grant_number = spreadsheet.sheet(0).row(1)[1]
-   "#{directory}/#{formatted_date}-#{grant_number}#{suffix}"
+   "#{directory}/#{formatted_date}-#{grant_number.to_s.parameterize}#{suffix}"
 end
 
 def render_erb(template_path)
@@ -75,18 +106,20 @@ def status_badge(status)
 end
 
 def check_status(uri, restricted)
-  if(uri.start_with?('http'))
-    # puts "Checking #{uri}".green
-    if(restricted)
-      puts "Skipping Restricted Asset".yellow
-      return "Restricted Asset"
+  unless uri.nil?
+    if(uri.start_with?('http'))
+      # puts "Checking #{uri}".green
+      if(restricted)
+        puts "Skipping Restricted Asset".yellow
+        return "Restricted Asset"
+      else
+        puts "Checking #{uri}".green
+        return  Net::HTTP.get_response(URI.parse(uri.strip)).code
+      end
     else
-      puts "Checking #{uri}".green
-      return  Net::HTTP.get_response(URI.parse(uri)).code
+      # puts "#{uri} is not valid".yellow
+      return "Invalid URL"
     end
-  else
-    # puts "#{uri} is not valid".yellow
-    return "Invalid URL"
   end
 end
 
@@ -104,7 +137,7 @@ def parse_url_info(worksheet)
     values =
     # @assets[worksheet.row(row)[@headers['ACCESS  FILENAME']].strip] =
       {
-        filename: worksheet.row(row)[@headers['ACCESS  FILENAME']].strip,
+        filename: worksheet.row(row)[@headers['ACCESS  FILENAME']].to_s.parameterize.strip,
         url: worksheet.row(row)[@headers['DIRECT URL TO FILE']],
         checksum: worksheet.row(row)[@headers['CHECKSUM']],
         checked: DateTime.now,

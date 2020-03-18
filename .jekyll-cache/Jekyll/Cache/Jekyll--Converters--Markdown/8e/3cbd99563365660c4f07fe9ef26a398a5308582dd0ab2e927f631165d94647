@@ -1,0 +1,18 @@
+I"2<div class="row">
+  <div class="col-xl-8 col-lg-12 col-md-12 col-12">
+    <div class="card">
+      <h5 class="card-header">Check Details</h5>
+      <div class="card-body">
+        <table class="table table-striped">
+          <thead>
+            <tr>
+              <th scope="col">Status</th>
+              <th scope="col">Filename</th>
+              <th scope="col">URL</th>
+              <th scope="col">Checksum</th>
+              <th scope="col">Restricted</th>
+            </tr>
+          </thead>
+          <tbody>
+</tbody></table></div></div></div></div>
+:ET

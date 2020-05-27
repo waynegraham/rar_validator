@@ -15,7 +15,7 @@ group :jekyll_plugins do
 end
 
 # Processing things
-gem 'activesupport', '~> 5.0', '>= 5.0.0.1'
+gem 'activesupport', '~> 5.2'
 gem 'chronic'
 gem 'colorize'
 gem 'rack'
